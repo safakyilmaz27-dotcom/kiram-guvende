@@ -63,7 +63,7 @@ export function QuickApplySection() {
   };
 
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-[#0F2E47] via-[#1B4F72] to-[#2C6FA0] text-white">
+    <section className="relative overflow-hidden bg-gradient-to-br from-[#1B5286] via-[#2E8FD9] to-[#54AEF5] text-white">
       <div
         aria-hidden
         className="absolute inset-0 opacity-[0.06] [background-image:radial-gradient(circle_at_1px_1px,white_1px,transparent_0)] [background-size:24px_24px]"
@@ -157,7 +157,7 @@ export function QuickApplySection() {
               type="submit"
               size="lg"
               disabled={isSubmitting}
-              className="h-11 bg-[#F1C40F] text-[#0F2E47] hover:bg-[#F4D03F] disabled:opacity-70"
+              className="h-11 bg-[#F1C40F] text-[#1B5286] hover:bg-[#F4D03F] disabled:opacity-70"
             >
               {isSubmitting ? "Gönderiliyor..." : "Hemen Başvur"}
               <ArrowRight className="ml-1 size-4" />

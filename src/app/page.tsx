@@ -63,7 +63,7 @@ export default function Home() {
   return (
     <>
       {/* ============ HERO ============ */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-[#0F2E47] via-[#1B4F72] to-[#2C6FA0] text-white">
+      <section className="relative overflow-hidden bg-gradient-to-br from-[#1B5286] via-[#2E8FD9] to-[#54AEF5] text-white">
         <div
           aria-hidden
           className="absolute inset-0 opacity-[0.06] [background-image:radial-gradient(circle_at_1px_1px,white_1px,transparent_0)] [background-size:24px_24px]"
@@ -124,7 +124,7 @@ export default function Home() {
           {/* Hero side panel: "Bu Ay Kazandıklarınız" mock-up */}
           <div className="relative flex items-center justify-center">
             {/* Floating notification — top right */}
-            <div className="absolute -top-4 right-0 z-10 w-[280px] animate-[slideIn_0.6s_ease-out] rounded-xl border border-emerald-400/30 bg-[#0F2E47] p-4 shadow-2xl ring-1 ring-emerald-400/20 sm:-right-4">
+            <div className="absolute -top-4 right-0 z-10 w-[280px] animate-[slideIn_0.6s_ease-out] rounded-xl border border-emerald-400/30 bg-[#1B5286] p-4 shadow-2xl ring-1 ring-emerald-400/20 sm:-right-4">
               <div className="flex items-start gap-3">
                 <div className="flex size-9 shrink-0 items-center justify-center rounded-full bg-emerald-500/15">
                   <Check className="size-5 text-emerald-400" />
@@ -146,7 +146,7 @@ export default function Home() {
 
             {/* Main card: "Bu Ay Kazandıklarınız" */}
             <div className="w-full max-w-md rounded-2xl bg-white/10 p-1 ring-1 ring-white/20 backdrop-blur">
-              <div className="rounded-xl bg-[#0F2E47]/85 p-6">
+              <div className="rounded-xl bg-[#1B5286]/85 p-6">
                 <div className="flex items-center justify-between">
                   <p className="text-xs uppercase tracking-wider text-white/50">
                     Bu Ay Kazandıklarınız
@@ -396,7 +396,7 @@ export default function Home() {
       {/* ============ HESAPLAYICI ============ */}
       <section
         id="hesaplayici"
-        className="relative overflow-hidden bg-[#1B4F72] text-white"
+        className="relative overflow-hidden bg-[#2E8FD9] text-white"
       >
         <div
           aria-hidden
@@ -547,7 +547,7 @@ export default function Home() {
       <QuickApplySection />
 
       {/* ============ FİNAL CTA / FORM ============ */}
-      <section className="bg-[#1B4F72] text-white">
+      <section className="bg-[#2E8FD9] text-white">
         <div className="mx-auto grid max-w-7xl gap-12 px-4 py-20 sm:px-6 lg:grid-cols-2 lg:items-center lg:px-8">
           <div>
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">

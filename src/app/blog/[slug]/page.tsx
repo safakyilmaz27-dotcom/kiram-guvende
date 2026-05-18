@@ -245,7 +245,7 @@ export default async function BlogPostPage({
             </div>
 
             {/* CTA Card */}
-            <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#0F2E47] via-[#1B4F72] to-[#2C6FA0] p-6 text-white">
+            <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-[#1B5286] via-[#2E8FD9] to-[#54AEF5] p-6 text-white">
               <div
                 aria-hidden
                 className="absolute -top-12 -right-12 size-32 rounded-full bg-accent/20 blur-2xl"

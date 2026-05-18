@@ -108,7 +108,7 @@ export default function HowItWorksPage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-[#0F2E47] via-[#1B4F72] to-[#2C6FA0] text-white">
+      <section className="relative overflow-hidden bg-gradient-to-br from-[#1B5286] via-[#2E8FD9] to-[#54AEF5] text-white">
         <div
           aria-hidden
           className="absolute inset-0 opacity-[0.06] [background-image:radial-gradient(circle_at_1px_1px,white_1px,transparent_0)] [background-size:24px_24px]"
@@ -306,7 +306,7 @@ export default function HowItWorksPage() {
       </section>
 
       {/* Final CTA */}
-      <section className="bg-[#1B4F72] text-white">
+      <section className="bg-[#2E8FD9] text-white">
         <div className="mx-auto max-w-4xl px-4 py-16 text-center sm:px-6 lg:px-8 lg:py-20">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
             İlk telefon 10 dakika. Sonrası 12 yıl huzur.

@@ -69,7 +69,7 @@ export function StatsSection() {
     >
       <div
         aria-hidden
-        className="absolute inset-0 opacity-40 [background-image:radial-gradient(circle_at_1px_1px,#1B4F72_1px,transparent_0)] [background-size:32px_32px]"
+        className="absolute inset-0 opacity-40 [background-image:radial-gradient(circle_at_1px_1px,#2E8FD9_1px,transparent_0)] [background-size:32px_32px]"
       />
 
       <div className="relative mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
