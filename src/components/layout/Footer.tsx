@@ -127,7 +127,15 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-white/15 pt-6 text-sm text-white/60 sm:flex-row">
+        <div className="mt-12 border-t border-white/15 pt-5 text-center text-xs text-white/55">
+          <p>
+            🔒 KVKK Uyumlu &nbsp;|&nbsp; ⚖️ Hukuki Güvenceli &nbsp;|&nbsp; 📊
+            Şeffaf Fiyatlandırma &nbsp;|&nbsp; 🏆 Türkiye&apos;nin Kira Garanti
+            Platformu
+          </p>
+        </div>
+
+        <div className="mt-6 flex flex-col items-center justify-between gap-4 border-t border-white/15 pt-6 text-sm text-white/60 sm:flex-row">
           <p>© 2025 Kiram Güvende Ltd. Şti. Tüm hakları saklıdır.</p>
           <div className="flex items-center gap-6">
             <Link href="/gizlilik" className="hover:text-white">

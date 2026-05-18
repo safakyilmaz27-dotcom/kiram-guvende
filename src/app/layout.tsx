@@ -121,7 +121,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: "Kiram Güvende | Kira Garantisi ile Düzenli Gelir",
   description:
-    "Ev sahibi misiniz? Kiracı ödemelerinden bağımsız, her ay aynı tarihte garantili kira alın. Kiracı bulmak, tahsilat, bakım — hepsi bizden.",
+    "Kiracınız ödemese bile her ay garantili kira alın. Kiracı bulma, tahsilat, hukuki süreç ve bakım — Kiram Güvende ile mülk yönetimi tamamen otomatik. Kahramanmaraş, Gaziantep, İstanbul ve tüm Türkiye'de hizmet. %8 şeffaf hizmet bedeli, gizli ücret yok.",
   openGraph: {
     type: "website",
     locale: "tr_TR",
@@ -129,7 +129,7 @@ export const metadata: Metadata = {
     siteName: "Kiram Güvende",
     title: "Kiram Güvende | Kira Garantisi ile Düzenli Gelir",
     description:
-      "Ev sahibi misiniz? Kiracı ödemelerinden bağımsız, her ay aynı tarihte garantili kira alın. Kiracı bulmak, tahsilat, bakım — hepsi bizden.",
+      "Kiracınız ödemese bile her ay garantili kira alın. Kiracı bulma, tahsilat, hukuki süreç ve bakım — Kiram Güvende ile mülk yönetimi tamamen otomatik. Kahramanmaraş, Gaziantep, İstanbul ve tüm Türkiye'de hizmet. %8 şeffaf hizmet bedeli, gizli ücret yok.",
     images: [
       {
         url: "/opengraph-image",

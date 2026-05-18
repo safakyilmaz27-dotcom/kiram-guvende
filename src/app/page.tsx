@@ -57,6 +57,21 @@ const SSS: { q: string; lead: string; a: string }[] = [
     lead: "Tam dijital, noter vekaleti ile.",
     a: "Konsoloslukta düzenlenen genel vekalet + e-imzalı sözleşme + video ekspertiz ile Türkiye’ye ayak basmadan tüm süreci tamamlarsınız. Gurbetçi ev sahipleri için özel bir başvuru kanalımız vardır.",
   },
+  {
+    q: "Hukuki süreç başlarsa kira yatmaya devam eder mi?",
+    lead: "Evet, kesintisiz.",
+    a: "Tahliye davası, icra takibi veya ihtarname sürecinde bile kiranız her ay hesabınıza geçer. Hukuki süreç ne kadar uzarsa uzasın ödeme kesilmez.",
+  },
+  {
+    q: "Kiram Güvende nasıl kazanıyor, benim için riski nerede?",
+    lead: "%8 hizmet bedeli, başka kesinti yok.",
+    a: "Aylık kiranızdan %8 hizmet bedeli kesilir. Kiracının geç ödemesi, boş ay veya hukuki süreç riski tamamen bize aittir. Sizin için sıfır ek maliyet, sıfır sürpriz.",
+  },
+  {
+    q: "Birden fazla mülküm varsa indirim var mı?",
+    lead: "Evet, portföy paketi mevcut.",
+    a: "2 ve üzeri mülk için özel portföy paketi sunuyoruz. Teklif almak için bizimle iletişime geçin.",
+  },
 ];
 
 export default function Home() {
@@ -223,6 +238,62 @@ export default function Home() {
 
       {/* ============ HİZMETLER ============ */}
       <FeaturesSection />
+
+      {/* ============ NORTHWOOD GÜVEN BLOĞU ============ */}
+      <section className="bg-muted/30">
+        <div className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
+          <div className="mx-auto max-w-2xl text-center">
+            <span className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-primary">
+              Neden Biz
+            </span>
+            <h2 className="mt-4 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
+              Sigortaya değil, taahhüde dayanan tek platform
+            </h2>
+            <p className="mt-4 text-lg text-muted-foreground">
+              Rakiplerimiz sigorta poliçesi arkasına saklanır. Biz bizzat
+              taahhüt ederiz.
+            </p>
+          </div>
+
+          <div className="mt-12 grid gap-6 md:grid-cols-3">
+            {[
+              {
+                emoji: "🤝",
+                baslik: "Sigorta değil, doğrudan garanti",
+                metin:
+                  "Pek çok platform kira güvencesini sigorta şirketine yükler. Biz garantiyi bizzat veririz — araya giren sigorta şirketi yok, ret riski yok.",
+              },
+              {
+                emoji: "⚖️",
+                baslik: "Hukuki omurga",
+                metin:
+                  "Anlaşmalı hukuk büromuz tahliye, icra ve ihtarname süreçlerini yönetir. İngiltere'nin en büyük kira garanti platformu Northwood UK'in 30 yıldır uyguladığı model.",
+              },
+              {
+                emoji: "🔒",
+                baslik: "KVKK uyumlu dijital süreç",
+                metin:
+                  "Sözleşmeden ödemeye, raporlamadan başvuruya — tüm süreç dijital ve şeffaf. Verileriniz üçüncü taraflarla paylaşılmaz.",
+              },
+            ].map((k) => (
+              <div
+                key={k.baslik}
+                className="rounded-2xl border border-border bg-card p-6 transition-shadow hover:shadow-md sm:p-7"
+              >
+                <div className="flex size-14 items-center justify-center rounded-2xl bg-gradient-to-br from-primary/10 to-accent/10 text-3xl ring-1 ring-primary/10">
+                  <span aria-hidden>{k.emoji}</span>
+                </div>
+                <h3 className="mt-5 text-lg font-bold text-foreground">
+                  {k.baslik}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+                  {k.metin}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* ============ PROBLEM ============ */}
       <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
@@ -473,6 +544,18 @@ export default function Home() {
               metin:
                 "Avukat tutmadan, mahkemeye gitmeden kiracı çıkardılar. Stresten kurtuldum. Eski emlakçımdan farklı, gerçekten arkamda olduklarını hissediyorum.",
             },
+            {
+              ad: "Ali R.",
+              rol: "Gaziantep, 1 daire sahibi",
+              metin:
+                "Kiracım 3 ay üst üste geç yatırdı. Kiram Güvende ile geçtiğimde hiç fark etmedim — her ay aynı tarihte yattı. Sonradan öğrendim, şok oldum.",
+            },
+            {
+              ad: "Fatma S.",
+              rol: "Hollanda'dan, Kahramanmaraş'ta 2 daire",
+              metin:
+                "Hollanda'dayım, Kahramanmaraş'ta iki dairem var. Eskiden her tatilde koşuşturuyordum. Şimdi panelden bakıyorum, o kadar.",
+            },
           ].map((t) => (
             <figure
               key={t.ad}
@@ -539,9 +622,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* ============ TEKRAR CTA ============ */}
-      <QuickApplySection />
 
       {/* ============ FİNAL CTA / FORM ============ */}
       <section className="bg-[#2E8FD9] text-white">

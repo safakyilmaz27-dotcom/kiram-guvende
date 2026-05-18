@@ -77,7 +77,9 @@ const INITIAL: FormState = {
 };
 
 const SEHIRLER = [
-  "Kahramanmaraş", "Gaziantep", "Adana", "Mersin", "Ankara", "İstanbul", "İzmir", "Diğer",
+  "Kahramanmaraş", "Gaziantep", "Adana", "Mersin", "Ankara", "İstanbul", "İzmir",
+  "Bursa", "Konya", "Antalya", "Kayseri", "Hatay", "Kocaeli", "Diyarbakır", "Şanlıurfa",
+  "Diğer",
 ];
 
 const ODA_SECENEKLER = ["1+0", "1+1", "2+1", "3+1", "4+1", "5+ ve üzeri"];

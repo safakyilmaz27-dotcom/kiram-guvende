@@ -105,6 +105,48 @@ export const BLOG_POSTS: BlogPost[] = [
     ],
   },
   {
+    slug: "kiraci-seciminde-yapilan-7-hata-ve-cozumleri",
+    title: "Kiracı Seçiminde Yapılan 7 Hata ve Çözümleri",
+    excerpt:
+      "Yanlış kiracı seçimi, aylarca süren tahliye davalarının ve onarım faturalarının en büyük sebebidir. Ev sahiplerinin en sık düştüğü 7 tuzak ve her birinin somut çözümü.",
+    category: "Rehber",
+    readMinutes: 7,
+    publishedAt: "2026-05-05",
+    author: { name: "Merve Aydın", role: "Müşteri Başarı Uzmanı" },
+    cover: { gradient: "from-fuchsia-500 to-pink-600", emoji: "🔎" },
+    body: [
+      "Bir kira ilişkisinin kaderi büyük ölçüde sözleşmenin imzalandığı gün değil, kiracı adayıyla yapılan ilk görüşmede belirlenir. Aşağıdaki yedi hata, ev sahiplerinin daha sonra mahkeme koridorlarında karşılaştığı sorunların çekirdeğini oluşturuyor.",
+      "Birinci hata: “İlk gelen, iyi gelen” yaklaşımı. Daire boş kalmasın diye ilk başvurana kapıyı açmak, aylık kira kaybını birkaç haftada telafi eder gibi görünür; ancak yanlış kiracı 6-12 ay boyunca hem geliri hem mülkü riske atar. Çözüm: en az 3-5 aday görüşmeden sözleşme imzalamamak.",
+      "İkinci hata: Gelir belgesi istememek. “Tanıdık tavsiyesiyle geldi” diyerek SGK dökümü ya da maaş bordrosu sormamak en sık görülen zaaftır. Çözüm: aylık net gelirin kiranın en az 3 katı olmasını şart koşmak ve bunu son üç aylık SGK hizmet dökümüyle teyit etmek.",
+      "Üçüncü hata: Referans kontrolünü atlamak. Bir önceki ev sahibini aramamak, ödeme disiplini ve mülk bakımı hakkındaki en güçlü veri kaynağını kaybetmek demektir. Çözüm: son iki ev sahibine ulaşıp “Yeniden kiraya verir miydiniz?” sorusunu sormak.",
+      "Dördüncü hata: Kefil yerine “sözlü garanti”. Sözleşmeye kefil yazılmadan, kefilin kimlik fotokopisi ve imza beyannamesi alınmadan başlatılan kira ilişkilerinde tahsilat süresi ortalama iki katına çıkar. Çözüm: müteselsil kefil ve noter onaylı imza beyannamesi.",
+      "Beşinci hata: İcra ve dava sorgusu yapmamak. Adli sicil değil, açık icra dosyası sorgusu kritik. Çözüm: e-Devlet üzerinden kira ödememe kaynaklı icra dosyası geçmişini sorgulamak; geçmişi olan adaylarda en az iki kira tutarında ek teminat istemek.",
+      "Altıncı hata: Sosyal medya doğrulamasını ihmal etmek. Aday hakkında temel bir LinkedIn ve sosyal medya kontrolü, beyan edilen iş ve şehirle tutarsızlıkları ortaya çıkarabilir. Çözüm: işveren, pozisyon ve görev yeri en az iki kaynaktan teyit edilmeli.",
+      "Yedinci hata: Süreci tek başına yönetmek. Duygusal sempati profesyonel değerlendirmenin önüne geçer; özellikle ilk kez kiraya veren ev sahiplerinde bu risk çok yüksektir. Çözüm: Kiram Güvende’de tüm bu adımlar bağımsız ekipler tarafından yapılır — gelir, SGK, referans, icra ve kefil kontrolü standart paketin parçasıdır ve onay verilmeyen aday sözleşme aşamasına geçirilmez.",
+    ],
+  },
+  {
+    slug: "yurt-disindan-mulk-yonetimi-pratik-rehber",
+    title: "Yurt Dışından Türkiye’deki Mülkünüzü Yönetmek: Pratik Rehber",
+    excerpt:
+      "Avrupa’dan, Körfez’den ya da ABD’den Türkiye’deki dairenizi yönetmek için gereken vekalet, banka, tahsilat ve denetim altyapısı — adım adım.",
+    category: "Gurbetçi",
+    readMinutes: 7,
+    publishedAt: "2026-04-08",
+    author: { name: "Merve Aydın", role: "Müşteri Başarı Uzmanı" },
+    cover: { gradient: "from-blue-600 to-cyan-500", emoji: "🌍" },
+    body: [
+      "Yurt dışında yaşayan ev sahipleri için Türkiye’deki bir dairenin yönetimi yalnızca kira tahsilatı değildir; vekalet, vergi, abonelik, denetim ve hukuki süreçlerin tek bir zincirde işlemesidir. Bu rehber, sıfırdan uzaktan yönetim altyapısı kurmak isteyenler için pratik bir yol haritasıdır.",
+      "Adım 1 — Genel vekalet. Bulunduğunuz ülkedeki Türkiye konsolosluğunda “gayrimenkul yönetimi, kira tahsili, ihtarname keşidesi, icra takibi ve tahliye davası açma” yetkilerini içeren kapsamlı bir vekalet düzenletin. Bu vekalet, uzaktan yapılacak her hukuki işlemin temelidir.",
+      "Adım 2 — Banka ve potansiyel vergi mukimliği. Türkiye’de bir vadesiz mevduat hesabı, kira ödemelerinin tek toplandığı kasa olmalı. IBAN kiracıya verilir ama hesabın internet bankacılığı, kart ve yetki erişimi yalnızca sizde kalır. Yıllık kira beyanı için yurt dışında yaşıyor olmanız beyan zorunluluğunuzu ortadan kaldırmaz — bir mali müşavirle yıllık kontrol planlayın.",
+      "Adım 3 — Abonelikler. Su, elektrik ve doğalgaz aboneliklerini mümkün olduğunda kiracı adına devredin; mümkün değilse kullanım raporlarını aylık takip edin. Daire boş görünürken yüksek tüketim, izinsiz işgalin en erken sinyalidir.",
+      "Adım 4 — Fiziki denetim. Yılda en az iki kez, mümkünse her çeyrek mülkün fotoğraflı denetimi yapılmalı. Aile bireyleri uygun değilse, mülk yönetimi sağlayan kurumsal bir partnerle çalışın; tutanak ve fotoğraf imzalı olarak arşivlenmeli.",
+      "Adım 5 — Hukuki erken uyarı. Aidat, vergi bildirimi, ortak alan tebligatları gibi belgelerin elinize geçmesi için Türkiye’de bir tebligat adresi ve düzenli posta kontrolü şart. Aksi halde sizin habersiz olduğunuz bir süreç tahliye ya da haciz aşamasına gelebilir.",
+      "Adım 6 — Otomatikleştirme. Yukarıdaki adımları manuel yürütmek mümkündür ama tek bir aksamada zincirin tamamı kopar. Kiram Güvende’nin gurbetçi paketi vekalet, IBAN, tahsilat, çeyrek denetim ve hukuki süreçleri tek panelde toplar; aylık raporlar e-posta ve uygulamadan iletilir, ödemeniz takvim günü değişmeden hesabınıza geçer.",
+      "Sonuç: yurt dışından mülk yönetimi “güvenilir bir akraba” modeliyle değil, kurumsal bir zincirle sürdürülebilir. Kurulan altyapı, sizin Türkiye’ye uçmak zorunda kaldığınız acil durum sayısını sıfıra indirir.",
+    ],
+  },
+  {
     slug: "emekli-ev-sahibi-pasif-gelir-stratejisi",
     title: "Emekli Maaşı Yetmiyor: Tek Daireyle Düzenli Pasif Gelir Stratejisi",
     excerpt:

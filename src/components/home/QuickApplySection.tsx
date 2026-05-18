@@ -17,6 +17,14 @@ const SEHIRLER = [
   "Ankara",
   "İstanbul",
   "İzmir",
+  "Bursa",
+  "Konya",
+  "Antalya",
+  "Kayseri",
+  "Hatay",
+  "Kocaeli",
+  "Diyarbakır",
+  "Şanlıurfa",
   "Diğer",
 ] as const;
 

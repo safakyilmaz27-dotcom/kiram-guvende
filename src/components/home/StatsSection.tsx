@@ -14,9 +14,9 @@ type Stat = {
 };
 
 const STATS: Stat[] = [
-  { Icon: Building2, target: 500, suffix: "+", label: "Yönetilen Mülk" },
+  { Icon: Building2, target: 47, suffix: "+", label: "Yönetilen Mülk" },
   { Icon: ShieldCheck, target: 100, prefix: "%", label: "Ödeme Garantisi" },
-  { Icon: Timer, target: 15, suffix: " Gün", label: "Ortalama Yerleştirme" },
+  { Icon: Timer, target: 12, suffix: " Gün", label: "Ortalama Yerleştirme" },
   { Icon: Star, target: 4.9, decimals: 1, suffix: "/5", label: "Ev Sahibi Memnuniyeti" },
 ];
 
@@ -45,7 +45,7 @@ function Counter({
   useEffect(() => {
     if (!inView) return;
     const controls = animate(mv, target, {
-      duration: 1.8,
+      duration: 1.5,
       ease: [0.16, 1, 0.3, 1],
     });
     const unsub = display.on("change", (v) => setText(v));
