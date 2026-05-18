@@ -12,8 +12,6 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 
 const NAV_LINKS = [
   { href: "/nasil-calisir", label: "Nasıl Çalışır" },
-  { href: "/ev-sahipleri", label: "Ev Sahipleri" },
-  { href: "/kiracilar", label: "Kiracılar" },
   { href: "/blog", label: "Blog" },
   { href: "/iletisim", label: "İletişim" },
 ];
