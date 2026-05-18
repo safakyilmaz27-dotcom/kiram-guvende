@@ -427,7 +427,7 @@ export default function Home() {
 
             <ul className="mt-7 space-y-3">
               {[
-                "Şeffaf hizmet bedeli (%12)",
+                "Şeffaf hizmet bedeli (%8)",
                 "Hiçbir gizli kesinti yok",
                 "Yıllık brüt ve net karşılaştırması",
                 "Kiracı ödemese bile garantili",

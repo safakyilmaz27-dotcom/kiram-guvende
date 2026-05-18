@@ -667,7 +667,7 @@ function SummaryRow({ label, value }: { label: string; value: React.ReactNode })
 function Step4({ data, onEdit }: { data: FormState; onEdit: (step: number) => void }) {
   const kira = Number(data.beklenenKira) || 0;
   const sure = Number(data.sozlesmeSuresi) || 0;
-  const garantili = kira * 0.88;
+  const garantili = kira * 0.92;
 
   return (
     <div className="space-y-5">
@@ -681,7 +681,7 @@ function Step4({ data, onEdit }: { data: FormState; onEdit: (step: number) => vo
               Tahmini aylık net geliriniz: <span className="font-bold">{formatTRY(garantili)}</span>
             </p>
             <p className="mt-1 text-xs text-emerald-800">
-              %12 hizmet bedeli düşülmüştür. Net teklif ekspertiz sonrası kesinleşir.
+              %8 hizmet bedeli düşülmüştür. Net teklif ekspertiz sonrası kesinleşir.
             </p>
           </div>
         </div>

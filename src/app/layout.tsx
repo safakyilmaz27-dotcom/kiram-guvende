@@ -25,7 +25,7 @@ const jsonLd = {
       image: `${siteUrl}/opengraph-image`,
       telephone: "+90-545-133-28-59",
       email: "info@kiramguvende.com",
-      priceRange: "%12 hizmet bedeli",
+      priceRange: "%8 hizmet bedeli",
       address: {
         "@type": "PostalAddress",
         streetAddress: "İsmetpaşa Mah. Trabzon Bulvarı No: 1",

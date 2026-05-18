@@ -12,7 +12,7 @@ const formatTRY = (n: number) =>
     maximumFractionDigits: 0,
   }).format(Math.round(n));
 
-const COMISYON_ORANI = 0.12;
+const COMISYON_ORANI = 0.08;
 
 export function KiraHesaplayici() {
   const [aylikKira, setAylikKira] = useState<number>(20000);

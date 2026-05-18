@@ -253,10 +253,10 @@ function DetailDrawer({
               <DetailRow Icon={Wallet} label="Beklenen Kira" value={formatTRY(app.beklenenKira)} />
               <DetailRow
                 Icon={Wallet}
-                label="Tahmini Net (%12)"
+                label="Tahmini Net (%8)"
                 value={
                   <span className="text-emerald-700">
-                    {formatTRY(app.beklenenKira * 0.88)}
+                    {formatTRY(app.beklenenKira * 0.92)}
                   </span>
                 }
               />

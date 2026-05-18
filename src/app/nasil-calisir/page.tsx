@@ -54,7 +54,7 @@ const STEPS = [
     metin:
       "Hizmet bedeli, garanti tutarı, süre ve tüm şartlar netleştirildikten sonra sözleşme imzalanır. Yurt dışındaysanız e-imza ile uzaktan da yapılabilir. İmzayla birlikte kira garantiniz devreye girer.",
     detay: [
-      "Şeffaf %12 hizmet bedeli",
+      "Şeffaf %8 hizmet bedeli",
       "E-imza desteği (gurbetçiler için)",
       "12 ay kira teminatı",
     ],
@@ -265,7 +265,7 @@ export default function HowItWorksPage() {
                 Tek bir oran. Gerisi yok.
               </h2>
               <p className="mt-4 text-base text-muted-foreground">
-                Aylık kiranızın <strong className="text-primary">%12’si</strong>{" "}
+                Aylık kiranızın <strong className="text-primary">%8’i</strong>{" "}
                 hizmet bedelidir. İlan ücreti, avukat masrafı, ekspertiz, bakım
                 koordinasyonu, raporlama — hepsi bu orana dahildir. Sürpriz fatura
                 yok.

@@ -117,9 +117,9 @@ export const BLOG_POSTS: BlogPost[] = [
     body: [
       "Türkiye’de emekli ev sahiplerinin sıklıkla anlattığı bir senaryo var: tek dairesini kiraya vermiş, kira gelirini emekli maaşıyla birleştirip yaşıyor. Sorun şu — kiracı geç yatırdığında ya da hiç yatırmadığında bütçenin tamamı çöküyor.",
       "Bir vaka örneği: 20.000 TL aylık kirayla, 12 aylık sözleşme. Klasik modelde kiracının iki ay üst üste yatırmaması durumunda ev sahibi 40.000 TL açıkta kalır, ek olarak avukat ve dava masrafları için ~15.000 TL çıkar.",
-      "Garantili modelde aynı 20.000 TL’den %12 hizmet bedeli kesilir; ev sahibi her ay net 17.600 TL alır. Yıllık net 211.200 TL, dalgalanmasız.",
+      "Garantili modelde aynı 20.000 TL’den %8 hizmet bedeli kesilir; ev sahibi her ay net 18.400 TL alır. Yıllık net 220.800 TL, dalgalanmasız.",
       "Karşılaştırma basit: klasik modelde beklenen yıllık net (riskler dahil ortalama) ile garantili modeldeki sabit net arasındaki fark çoğu zaman komisyon oranını geçer.",
-      "Düzenli gelir özellikle sabit gelirli emekliler için yalnızca matematik değil, psikolojik bir konfor meselesi. “Bu ay yatacak mı?” sorusuyla geçen 30 günün insana maliyeti, %12 komisyondan daha yüksektir.",
+      "Düzenli gelir özellikle sabit gelirli emekliler için yalnızca matematik değil, psikolojik bir konfor meselesi. “Bu ay yatacak mı?” sorusuyla geçen 30 günün insana maliyeti, %8 komisyondan daha yüksektir.",
     ],
   },
 ];
