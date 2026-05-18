@@ -1,6 +1,5 @@
 import { ImageResponse } from "next/og";
 
-export const dynamic = "force-dynamic";
 export const size = { width: 64, height: 64 };
 export const contentType = "image/png";
 
