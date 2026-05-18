@@ -313,9 +313,6 @@ export default function Home() {
               },
             ].map((s, i) => (
               <div key={s.num} className="relative">
-                <div className="absolute -top-3 left-6 text-6xl font-bold text-primary/10">
-                  {s.num}
-                </div>
                 <div className="relative rounded-2xl border border-border bg-card p-6 pt-8">
                   <div className="inline-flex size-11 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                     <s.icon className="size-5" />
