@@ -5,8 +5,6 @@ import { usePathname } from "next/navigation";
 import { Instagram, Linkedin, Youtube, Mail, Phone, MapPin } from "lucide-react";
 
 const HIZMETLER = [
-  { href: "/ev-sahipleri", label: "Ev Sahipleri" },
-  { href: "/kiracilar", label: "Kiracılar" },
   { href: "/nasil-calisir", label: "Nasıl Çalışır" },
   { href: "/sss", label: "Sıkça Sorulan Sorular" },
 ];
