@@ -6,13 +6,9 @@ const SITE_URL = "https://kiramguvende.com";
 const STATIC_ROUTES: { path: string; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"]; priority: number }[] = [
   { path: "/", changeFrequency: "weekly", priority: 1.0 },
   { path: "/nasil-calisir", changeFrequency: "monthly", priority: 0.9 },
+  { path: "/basvuru", changeFrequency: "monthly", priority: 0.8 },
   { path: "/blog", changeFrequency: "daily", priority: 0.8 },
   { path: "/iletisim", changeFrequency: "monthly", priority: 0.7 },
-  { path: "/hakkimizda", changeFrequency: "monthly", priority: 0.6 },
-  { path: "/kariyer", changeFrequency: "weekly", priority: 0.5 },
-  { path: "/sss", changeFrequency: "monthly", priority: 0.6 },
-  { path: "/gizlilik", changeFrequency: "yearly", priority: 0.3 },
-  { path: "/kosullar", changeFrequency: "yearly", priority: 0.3 },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
