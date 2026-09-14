@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "İletişim | Kiram Güvende",
   description:
     "Kiram Güvende ile iletişime geçin. Telefon, WhatsApp veya form üzerinden 24 saat içinde size dönüyoruz.",
+  alternates: { canonical: "/iletisim/" },
 };
 
 const PHONE_DISPLAY = "0545 133 28 59";

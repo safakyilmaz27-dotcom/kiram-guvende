@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Blog | Kiram Güvende",
   description:
     "Ev sahipleri için kira hukuku, mülk yönetimi, gurbetçi rehberleri ve pasif gelir stratejileri.",
+  alternates: { canonical: "/blog/" },
 };
 
 const formatDate = (iso: string) =>

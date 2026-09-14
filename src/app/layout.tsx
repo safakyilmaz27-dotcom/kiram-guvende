@@ -119,6 +119,7 @@ const jsonLd = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  alternates: { canonical: "/" },
   title: "Kiram Güvende | Kira Garantisi ile Düzenli Gelir",
   description:
     "Kiracınız ödemese bile her ay garantili kira alın. Kiracı bulma, tahsilat, hukuki süreç ve bakım — Kiram Güvende ile mülk yönetimi tamamen otomatik. Kahramanmaraş, Gaziantep, İstanbul ve tüm Türkiye'de hizmet. %8 şeffaf hizmet bedeli, gizli ücret yok.",

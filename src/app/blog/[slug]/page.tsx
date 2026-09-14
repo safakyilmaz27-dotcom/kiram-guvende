@@ -3,7 +3,14 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { ArrowLeft, ArrowRight, Clock, Calendar, Sparkles } from "lucide-react";
+import {
+  ArrowLeft,
+  ArrowRight,
+  Clock,
+  Calendar,
+  RefreshCw,
+  Sparkles,
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { BLOG_POSTS } from "@/content/blog";
 
@@ -22,7 +29,8 @@ export async function generateMetadata({
   const post = BLOG_POSTS.find((p) => p.slug === slug);
   if (!post) return { title: "Yazı bulunamadı | Kiram Güvende" };
 
-  const url = `/blog/${post.slug}`;
+  // trailingSlash: true — canonical de sonda "/" taşımalı, aksi halde 301'e işaret eder.
+  const url = `/blog/${post.slug}/`;
 
   return {
     title: `${post.title} | Kiram Güvende Blog`,
@@ -34,6 +42,7 @@ export async function generateMetadata({
       type: "article",
       url,
       publishedTime: post.publishedAt,
+      modifiedTime: post.updatedAt ?? post.publishedAt,
       authors: [post.author.name],
       tags: [post.category],
     },
@@ -77,6 +86,9 @@ export default async function BlogPostPage({
     headline: post.title,
     description: post.excerpt,
     datePublished: post.publishedAt,
+    // Güncellenmemiş yazıda da dateModified basıyoruz; Google alan eksikse
+    // tarihi kendi tahmin ediyor, biz açıkça söyleyelim.
+    dateModified: post.updatedAt ?? post.publishedAt,
     author: {
       "@type": "Person",
       name: post.author.name,
@@ -90,9 +102,21 @@ export default async function BlogPostPage({
         url: "https://kiramguvende.com/icon",
       },
     },
-    mainEntityOfPage: `https://kiramguvende.com/blog/${post.slug}`,
+    mainEntityOfPage: `https://kiramguvende.com/blog/${post.slug}/`,
     articleSection: post.category,
   };
+
+  const faqJsonLd = post.faq?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: post.faq.map((f) => ({
+          "@type": "Question",
+          name: f.question,
+          acceptedAnswer: { "@type": "Answer", text: f.answer },
+        })),
+      }
+    : null;
 
   return (
     <>
@@ -100,6 +124,12 @@ export default async function BlogPostPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       {/* Cover */}
       <section className={`relative bg-gradient-to-br ${post.cover.gradient}`}>
@@ -124,6 +154,12 @@ export default async function BlogPostPage({
                 <Calendar className="size-3" />
                 {formatDate(post.publishedAt)}
               </span>
+              {post.updatedAt && (
+                <span className="flex items-center gap-1">
+                  <RefreshCw className="size-3" />
+                  {formatDate(post.updatedAt)} tarihinde güncellendi
+                </span>
+              )}
               <span className="flex items-center gap-1">
                 <Clock className="size-3" />
                 {post.readMinutes} dk okuma
@@ -181,6 +217,27 @@ export default async function BlogPostPage({
             >
               <ReactMarkdown remarkPlugins={[remarkGfm]}>{markdown}</ReactMarkdown>
             </div>
+
+            {/* FAQ — FAQPage JSON-LD'nin sayfada görünür karşılığı */}
+            {post.faq?.length ? (
+              <section className="mt-12">
+                <h2 className="text-2xl font-bold text-foreground">
+                  Sıkça Sorulan Sorular
+                </h2>
+                <dl className="mt-5 divide-y divide-border border-y border-border">
+                  {post.faq.map((f) => (
+                    <div key={f.question} className="py-5">
+                      <dt className="text-base font-semibold text-foreground">
+                        {f.question}
+                      </dt>
+                      <dd className="mt-2 text-base leading-relaxed text-muted-foreground">
+                        {f.answer}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+              </section>
+            ) : null}
 
             {/* Inline CTA */}
             <div className="mt-12 rounded-2xl border border-primary/20 bg-primary/5 p-6 sm:p-8">

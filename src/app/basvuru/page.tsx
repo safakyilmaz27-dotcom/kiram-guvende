@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Online Başvuru | Kiram Güvende",
   description:
     "Mülkünüz için ücretsiz kira garantisi teklifi alın. 4 adımda online başvuru, 24 saat içinde geri dönüş.",
+  alternates: { canonical: "/basvuru/" },
   robots: { index: true, follow: true },
 };
 

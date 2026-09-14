@@ -20,6 +20,7 @@ export const metadata: Metadata = {
   title: "Nasıl Çalışır | Kiram Güvende",
   description:
     "Mülk ekspertizinden kiracı yerleştirmeye, aylık tahsilattan hukuki sürece — Kiram Güvende’nin adım adım işleyişi.",
+  alternates: { canonical: "/nasil-calisir/" },
 };
 
 const STEPS = [

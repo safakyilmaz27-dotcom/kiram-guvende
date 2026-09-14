@@ -6,14 +6,12 @@ import { Instagram, Linkedin, Youtube, Mail, Phone, MapPin } from "lucide-react"
 
 const HIZMETLER = [
   { href: "/nasil-calisir", label: "Nasıl Çalışır" },
-  { href: "/sss", label: "Sıkça Sorulan Sorular" },
+  { href: "/basvuru", label: "Ücretsiz Değerleme" },
 ];
 
 const SIRKET = [
-  { href: "/hakkimizda", label: "Hakkımızda" },
   { href: "/blog", label: "Blog" },
   { href: "/iletisim", label: "İletişim" },
-  { href: "/kariyer", label: "Kariyer" },
 ];
 
 const SOSYAL = [
@@ -134,14 +132,11 @@ export function Footer() {
         </div>
 
         <div className="mt-6 flex flex-col items-center justify-between gap-4 border-t border-white/15 pt-6 text-sm text-white/60 sm:flex-row">
-          <p>© 2025 Kiram Güvende Ltd. Şti. Tüm hakları saklıdır.</p>
+          <p>© {new Date().getFullYear()} Kiram Güvende Ltd. Şti. Tüm hakları saklıdır.</p>
           <div className="flex items-center gap-6">
-            <Link href="/gizlilik" className="hover:text-white">
-              Gizlilik Politikası
-            </Link>
-            <Link href="/kosullar" className="hover:text-white">
-              Kullanım Koşulları
-            </Link>
+            <a href="mailto:info@kiramguvende.com" className="hover:text-white">
+              info@kiramguvende.com
+            </a>
           </div>
         </div>
       </div>
