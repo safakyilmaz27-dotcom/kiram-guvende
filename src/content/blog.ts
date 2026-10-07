@@ -903,4 +903,262 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "gaziantep-kira-piyasasi-2026",
+    title: "Gaziantep Kira Piyasası 2026: Ev Sahipleri Ne Yapmalı?",
+    excerpt:
+      "Gaziantep kira piyasası 2026: ortalama kira ve satış fiyatları, Şehitkamil-Şahinbey farkı, amortisman süresi ve ev sahipleri için pratik strateji.",
+    category: "Piyasa",
+    readMinutes: 5,
+    publishedAt: "2026-10-06",
+    author: { name: "Kiram Güvende İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-amber-500 to-orange-600", emoji: "🏙️" },
+    body: [
+      "**Kısa cevap:** 2026’da Gaziantep kira piyasası, hem konut fiyatlarında hem kiralarda belirgin bir yükselişle hareketli. İl genelinde konut ortalama **27.917 TL/m²**, ortalama kira ise **132,67 TL/m²** seviyesinde. Şahinbey 166 TL/m² ile en yüksek kiranın görüldüğü ilçe; konutun kendini ödeme (amortisman) süresi Gaziantep’te yaklaşık 13 yıl. Ev sahibi iseniz yapılacak en kritik şey, yükselen bu piyasada kiranızı hem rekabetçi hem de düzenli tahsil edilecek biçimde konumlandırmak.",
+      "Gaziantepli ev sahiplerinin bu yıl bize en çok söylediği cümle şu: “Fiyatlar uçtu ama benim elime geçen para o kadar artmadı.” Haklılar. Çünkü piyasa değeri yükselirken, boş kalan aylar, geç ödemeler ve yanlış fiyatlama bu artışı cebe yansımadan eritebiliyor. Gelin önce tabloya, sonra stratejiye bakalım.",
+      "## Rakamlarla Gaziantep 2026",
+      "Gaziantep, Türkiye konut satışında yaklaşık %3,2 payla 9. sıradaki il. Öne çıkan veriler:",
+      "- **İl ortalaması konut satışı:** 27.917 TL/m²\n- **İl ortalaması kira:** 132,67 TL/m²\n- **Amortisman süresi:** yaklaşık 13 yıl (Türkiye ortalaması 15–18 yıl olduğu düşünülürse Gaziantep görece hızlı)\n- **İkinci el satış oranı:** %68 — piyasa ağırlıklı olarak mevcut konut stoğu üzerinden dönüyor\n- **Peşin/nakit ödeme oranı:** %86 — alıcılar büyük ölçüde kredisiz hareket ediyor",
+      "## İlçe ilçe tablo: nerede ne oluyor?",
+      "Gaziantep tek bir piyasa değil; ilçeler arasında ciddi fark var.",
+      "### Şehitkamil ve Şahinbey (merkez)",
+      "Şehitkamil 27.907 TL/m² satış fiyatı ve yıllık yaklaşık %15,5 artışla merkezin lokomotifi. Şahinbey ise 26.322 TL/m² satış fiyatına karşın 166 TL/m² ile ilin en yüksek kirasına sahip — yani kira getirisi açısından dikkat çekici. İki merkez ilçe, hem kiracı talebinin hem de değer artışının en güçlü olduğu bölgeler.",
+      "### Çevre ilçeler",
+      "Oğuzeli yıllık %28,7’lik satış fiyatı artışıyla öne çıkarken, İslahiye ve Yavuzeli’nde kiralar yıllık %38’in üzerinde arttı. Bu, merkez dışında da güçlü bir kira talebi olduğunu gösteriyor. Nurdağı ve Nizip ise 26–28 bin TL/m² bandında, istikrarlı seyrediyor.",
+      "## Peki ev sahibi olarak ne yapmalısınız?",
+      "### 1) Kiranızı piyasaya göre doğru konumlayın",
+      "Dosyalarımızda en sık gördüğümüz hata, yıllarca aynı kiracıyla devam edip kiranın piyasanın çok altında kalması. Yasal artış sınırı 12 aylık TÜFE ortalamasına göre belirleniyor (Eylül 2026 için %31,79 olarak açıklandı); bu sınır içinde kalarak ama piyasayı da takip ederek fiyatınızı güncel tutmak önemli. Aşırı yüksek fiyat ise evi boş bırakır — Gaziantep’te doğru fiyat, hızlı dolan evdir.",
+      "### 2) Boş ay riskini ciddiye alın",
+      "Yükselen bir piyasada bile her ay boş kalan daire, size o ayın kirası kadar değil, yıllık getirinizden puan kaybettirir. Hızlı ve doğru kiracı bulma süreci, fiyattan bile önemli olabiliyor.",
+      "### 3) Düzenli tahsilatı garanti altına alın",
+      "Kira ne kadar yüksek olursa olsun, düzenli akmıyorsa kâğıt üzerinde kalır. Özellikle Gaziantep gibi talebin yüksek olduğu bir piyasada, doğru kiracı + garantili tahsilat kombinasyonu getiriyi gerçek kılan şeydir.",
+      "## Gaziantep’teki eviniz için kira her ayın 1’inde hesabınızda",
+      "Piyasa yükselirken asıl mesele, bu yükselişi cebinize yansıtmak. Kiram Güvende, Gaziantep başta olmak üzere hizmet verdiği bölgelerde kiracınızı sizin yerinize titizlikle seçer, evinizin boş kalma süresini en aza indirir ve en önemlisi: kiracı ödesin ödemesin, kiranız her ayın 1’inde hesabınızda olur. Yükselen piyasanın getirisini düzensiz tahsilata kaptırmazsınız — hem de yalnızca %8 komisyonla.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "Gaziantep’te konut yatırımı hâlâ mantıklı mı?",
+        answer:
+          "Amortisman süresinin yaklaşık 13 yıl olması, Gaziantep’i Türkiye ortalamasına göre (15–18 yıl) görece cazip kılıyor. Yine de ilçe ve konum seçimi getirinizi doğrudan etkiliyor; merkez ilçelerde talep daha güçlü.",
+      },
+      {
+        question: "Deprem sonrası Gaziantep kiraları ne durumda?",
+        answer:
+          "Bölgedeki konut talebi ve fiyatlar son yıllarda belirgin biçimde yükseldi; merkez ilçelerde kira ve satış fiyatları çift haneli yıllık artışlar gösterdi. Bu, ev sahibi için fırsat; ama güvenli kiracı seçimini daha da önemli hale getiriyor.",
+      },
+      {
+        question: "Şehitkamil mi, Şahinbey mi daha iyi?",
+        answer:
+          "Şehitkamil değer artışında güçlü, Şahinbey ise kira seviyesinde ilin en yükseği. Hedefiniz kira getirisiyse Şahinbey, uzun vadeli değer artışıysa Şehitkamil öne çıkabilir.",
+      },
+    ],
+  },
+  {
+    slug: "kira-getirisi-nasil-hesaplanir",
+    title: "Kira Getirisi Nasıl Hesaplanır? Formül + Amortisman (2026)",
+    excerpt:
+      "Kira getirisi nasıl hesaplanır? Brüt ve net getiri formülü, amortisman süresi ve 2026 Türkiye ortalamaları örneklerle — yatırımcı ev sahibine sade rehber.",
+    category: "Finans",
+    readMinutes: 6,
+    publishedAt: "2026-10-05",
+    author: { name: "Kiram Güvende İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-emerald-500 to-teal-600", emoji: "📈" },
+    body: [
+      "**Kısa cevap:** Kira getirisi en basit haliyle şu formülle hesaplanır: **(Aylık kira × 12) ÷ Konutun değeri × 100**. Örneğin 4.000.000 TL değerindeki bir daireyi aylık 25.000 TL’ye kiraya verdiğinizde, yıllık brüt getiriniz (25.000 × 12) ÷ 4.000.000 × 100 = **%7,5** olur. Bu da konutun kendini yaklaşık 13,3 yılda (amortisman süresi) ödediği anlamına gelir.",
+      "Ama gerçek hayatta “getiri” tek bir rakamdan ibaret değil. Ev sahiplerinin sık sorduğu “Bu daireyi almam mantıklı mı, yoksa param bankada mı dursun?” sorusunun cevabı, brüt getirinin yanında net getiriyi ve amortisman süresini de doğru okumaktan geçiyor. Gelin adım adım görelim.",
+      "## Brüt kira getirisi: ilk ve en hızlı bakış",
+      "Brüt getiri, hiçbir gideri hesaba katmadan, kiranın konut değerine oranıdır. Hızlı bir kıyaslama aracıdır:",
+      "**Brüt getiri (%) = Yıllık kira geliri ÷ Konutun satın alma bedeli × 100**",
+      "Diyelim bir yatırımcı iki daireye bakıyor. Birincisi 3.000.000 TL, aylık 18.000 TL kira getiriyor (yıllık 216.000 TL → %7,2). İkincisi 5.000.000 TL, aylık 24.000 TL kira getiriyor (yıllık 288.000 TL → %5,76). Satış fiyatı yüksek görünen ikinci daire, getiri açısından aslında daha zayıf. İşte brüt getiri bu tür yanılsamaları ortadan kaldırır.",
+      "## Net kira getirisi: cebinize gerçekte kalan",
+      "Brüt getiri iyi bir başlangıç ama tam resim değil. Çünkü konuttan para kazanırken bazı giderler de çıkar: aidat, emlak vergisi, sigorta (DASK + konut), bakım-onarım, boş kalan aylar ve kira geliri vergisi. Net getiri, bu giderleri düştükten sonra kalan tutardır:",
+      "**Net getiri (%) = (Yıllık kira − Yıllık giderler) ÷ Konut değeri × 100**",
+      "Dosyalarımızda sık gördüğümüz bir tablo şu: brüt %7 görünen bir daire, iki ay boş kaldığında ve aidat/bakım çıktığında net %5’in altına inebiliyor. Bu yüzden yatırım kararını hep net getiri üzerinden vermenizi öneririz. Pratikte Türkiye’de net getiri, brüt getirinin çoğunlukla 1–2 puan altında seyreder.",
+      "## Amortisman süresi: konut kaç yılda kendini öder?",
+      "Amortisman süresi, konutun kira geliriyle kendi bedelini kaç yılda çıkardığını gösterir ve belki de en sezgisel ölçüttür:",
+      "**Amortisman süresi (yıl) = Konut değeri ÷ Yıllık kira geliri**",
+      "4.000.000 TL’lik, aylık 25.000 TL kira getiren daire: 4.000.000 ÷ 300.000 = yaklaşık 13,3 yıl. Kısa bir amortisman süresi, getirinin yüksek olduğu anlamına gelir (çünkü ikisi birbirinin tersidir: amortisman süresi kısaldıkça getiri yüzdesi artar).",
+      "2026 itibarıyla Türkiye genelinde konutun amortisman süresi ortalama **15–18 yıl** bandında. İstanbul’da bu süre yaklaşık 17,6 yıla (yaklaşık 211 ay) çıkarken, Gaziantep gibi illerde 13 yıl civarına inebiliyor — yani aynı para Gaziantep’te daha hızlı kendini ödeyebiliyor. Bu farkı bilmek, nereye yatırım yapacağınıza karar verirken işinize yarar.",
+      "## Değer artışını unutmayın",
+      "Konut yatırımının getirisi sadece kiradan ibaret değil. İkinci bir gelir kalemi, konutun zaman içindeki değer artışıdır (sermaye kazancı). Örneğin Gaziantep’te bazı ilçelerde konut fiyatları yıllık %12–28 arası arttı. Toplam getiriyi değerlendirirken “kira getirisi + değer artışı”nı birlikte düşünmek daha sağlıklıdır. Yalnız şunu da ekleyelim: değer artışı siz satmadıkça cebe girmeyen, kâğıt üstündeki bir kazançtır; kira ise her ay akan nakit.",
+      "## Getiriyi düşüren en büyük gizli maliyet: düzensiz kira",
+      "Tüm bu hesapların sessiz düşmanı, kiranın düzenli akmamasıdır. Bir daire kâğıt üzerinde %7,5 getiriyor olabilir; ama kiracı iki ay ödemediğinde, bir ay evi boş bıraktığınızda ya da tahliye süreciyle uğraşırken geliriniz birkaç puan birden erir. Yatırımcı ev sahiplerinin gerçek getirisi, çoğu zaman tabloya yazdıkları rakamdan düşüktür — çünkü tablo boş ay ve ödememe riskini hesaba katmaz.",
+      "## Yatırımınızın getirisini kâğıttaki rakama yaklaştırın",
+      "Bir konutun gerçek getirisi, ancak kira kesintisiz ve zamanında aktığında tabloya yazdığınız orana yaklaşır. Kiram Güvende ile kiracınız ödesin ödemesin, kiranız her ayın 1’inde hesabınızda olur; boş ay ve ödememe riskini biz üstleniriz. Böylece hesapladığınız getiri kâğıtta kalmaz, cebinize düzenli nakit olarak döner — hem de yalnızca %8 komisyonla.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "İyi bir kira getirisi oranı kaç olmalı?",
+        answer:
+          "Türkiye şartlarında brüt %6–8 arası genelde makul kabul edilir. Ancak oranı tek başına değil, bölgenin değer artış potansiyeli ve konutun boş kalma riskiyle birlikte değerlendirmek gerekir.",
+      },
+      {
+        question: "Amortisman süresi kısa olan konut her zaman daha mı iyi?",
+        answer:
+          "Çoğunlukla yüksek getiriyi gösterir; yine de düşük değer artışı olan bir bölgedeki kısa amortisman, uzun vadede sizi daha az kazançlı bırakabilir. İki ölçütü birlikte okuyun.",
+      },
+      {
+        question: "Getiri hesabına vergiyi katmalı mıyım?",
+        answer:
+          "Net getiri hesabında evet. Konut kira gelirinde 2026 için 58.000 TL’lik bir istisna olsa da, bunun üzerindeki gelir vergilendirilir ve net getirinizi etkiler.",
+      },
+    ],
+  },
+  {
+    slug: "uzaktan-mulk-yonetimi",
+    title: "Uzaktan Mülk Yönetimi: Evinizi Görmeden Nasıl Yönetirsiniz?",
+    excerpt:
+      "Uzaktan mülk yönetimi nasıl yapılır? Başka şehir ya da yurt dışındaki ev sahibi için kiracı takibi, tahsilat ve bakım yönetimi — pratik ve güvenli rehber.",
+    category: "Gurbetçi",
+    readMinutes: 5,
+    publishedAt: "2026-10-04",
+    author: { name: "Kiram Güvende İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-sky-500 to-indigo-600", emoji: "🌍" },
+    body: [
+      "**Kısa cevap:** Uzaktan mülk yönetimi, başka bir şehirde ya da yurt dışında yaşarken Türkiye’deki konutunuzu güvenle kiraya verip yönetmenizi sağlayan bir düzenin adıdır. İyi bir uzaktan yönetimin üç ayağı vardır: **güvenilir kiracı seçimi**, **düzenli ve kanıtlanabilir tahsilat** ve **bakım-onarım ile hukuki süreçleri sizin adınıza yürütecek bir temsil mekanizması**. Bu üçü oturduğunda, eve yılda bir kez bile gitmeden mülkünüzü sorunsuz yönetebilirsiniz.",
+      "Gurbetteki ve başka şehirdeki ev sahiplerinin bize sık anlattığı bir kâbus var: “Kiracı aradı, kombi patlamış; ben Almanya’dayım, kime söyleyeceğimi bilemedim.” Ya da: “Üç aydır kira yatmıyor, gidip kapıyı çalacak halim yok.” Uzaktan yönetimin tüm mesele bu anlardır — ve iyi haber, hepsi önceden kurulabilecek bir sistemle çözülür. Nasıl olduğunu anlatalım.",
+      "## Uzaktan yönetmenin gerçek zorlukları",
+      "Fiziksel uzaklık, tek başına bir sorun değil; asıl zorluk, uzaklığın küçük meseleleri büyük krizlere çevirmesi. Dosyalarımızda en sık karşılaştığımız dört başlık:",
+      "- **Tahsilat belirsizliği:** Kiranın yatıp yatmadığını her ay tek tek kontrol etmek, geç ödemelerde muhatap bulamamak.\n- **Acil bakım:** Su kaçağı, arıza gibi durumlarda yerinde müdahale edecek güvenilir birinin olmaması.\n- **Kiracı uyuşmazlıkları:** Ödememe ya da tahliye gerektiren durumlarda, yüzlerce-binlerce kilometre öteden hukuki süreç yürütmenin zorluğu.\n- **Bilgi kopukluğu:** Evde ne olup bittiğini görememek, her şeyi kiracının anlattığına güvenmek zorunda kalmak.",
+      "## Sağlam bir uzaktan yönetim sistemi nasıl kurulur?",
+      "### 1) Doğru kiracıyı baştan seçin",
+      "Uzaktan yönetimde en pahalı hata, yanlış kiracıdır. Çünkü sorun çıktığında yanında değilsiniz. Bu yüzden kiracı seçiminde gelir durumu, referans ve sözleşme güvencelerini baştan sağlam kurmak, sonradan yaşanacak onlarca sorunu önler. İyi bir başlangıç, uzaktan yönetimin yarısıdır.",
+      "### 2) Tahsilatı otomatik ve kanıtlanabilir hale getirin",
+      "Kira mutlaka banka üzerinden, düzenli ve takip edilebilir şekilde akmalı. Elden tahsilat, uzaktaki ev sahibi için hem gelir kanıtı hem de vergi açısından risktir. İdeal olan, her ay aynı gün hesabınıza geçen, sizin tek tek kontrol etmenize gerek bırakmayan bir yapı.",
+      "### 3) Yerinde bir “eliniz-ayağınız” olsun",
+      "Bakım, onarım, aidat takibi ve gerektiğinde kiracıyla yüz yüze iletişim için güvendiğiniz bir temsilciye ya da profesyonel bir yönetim hizmetine ihtiyacınız var. Vekalet vererek bir yakınınıza bırakabilirsiniz; ancak bu çoğu zaman o kişiye de yük olur ve ilişkileri yıpratır. Profesyonel yönetim, bu yükü tarafsız ve sistemli biçimde üstlenir.",
+      "### 4) Düzenli raporla görünürlük kazanın",
+      "Evi görememenin panzehiri, düzenli bilgidir. Aylık kira raporu, bakım kayıtları ve kiracı durumu hakkında periyodik bilgilendirme, yüzlerce kilometre öteden bile mülkünüzün kontrolünü elinizde tutmanızı sağlar.",
+      "## Vekalet mi, profesyonel hizmet mi?",
+      "Bir yakınınıza vekalet vermek düşük maliyetlidir ama sürdürülebilir değildir: kişi müsait olmayabilir, sorumluluk ağırlaşınca ilişki gerilir ve en önemlisi, kira ödenmediğinde bu kişi de çaresiz kalır. Profesyonel mülk yönetimi ise süreci kişilere bağlı olmaktan çıkarır; kiracı seçiminden tahsilata, bakımdan hukuki sürece kadar her adımı sistemle yürütür. Özellikle kira garantili bir modelde, kira ödensin ödenmesin geliriniz akmaya devam ettiği için, uzaktaki ev sahibinin en büyük korkusu olan “kira yatmıyor” sorunu kökten ortadan kalkar.",
+      "## Evinizi görmeden, ama kontrolü elinizde tutarak",
+      "İster İstanbul’da çalışıp Gaziantep’teki evinizi yönetin, ister Almanya’dan Türkiye’deki dairenizi takip edin — uzaktan yönetimin kalbi güven ve düzendir. Kiram Güvende, kiracı seçiminden tahsilata kadar tüm yükü üstlenir ve en kritik vaadi verir: kiracınız ödesin ödemesin, kiranız her ayın 1’inde hesabınızda olur. Siz kilometrelerce öteden sadece hesabınıza geçen parayı ve düzenli raporları görürsünüz — hem de yalnızca %8 komisyonla.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "Yurt dışındayken Türkiye’deki evimi kiraya verebilir miyim?",
+        answer:
+          "Evet. Vekalet yoluyla ya da profesyonel bir yönetim hizmetiyle, siz ülkeye hiç gelmeden sözleşme, tahsilat ve yönetim süreçleri yürütülebilir. Önemli olan, tahsilatın banka üzerinden ve kanıtlanabilir olması.",
+      },
+      {
+        question: "Kiracı kirayı ödemezse uzaktan ne yapabilirim?",
+        answer:
+          "Kendi başınıza süreç yürütmek zordur; bu noktada ya güvendiğiniz bir temsilci ya da hukuki ve tahsilat sürecini üstlenen bir yönetim hizmeti gerekir. Kira garantili modelde ise bu risk baştan devredildiği için geliriniz etkilenmez.",
+      },
+      {
+        question: "Evimin durumunu nasıl takip ederim?",
+        answer:
+          "Düzenli aylık raporlar, bakım kayıtları ve fotoğraflı bilgilendirmelerle evi görmeden de durumunu takip edebilirsiniz. Sistemli bir yönetim, bu görünürlüğü standart olarak sunar.",
+      },
+    ],
+  },
+  {
+    slug: "kiraci-tahliyesi-ne-kadar-surer",
+    title: "Kiracı Tahliyesi Ne Kadar Sürer? Aşama Aşama (2026)",
+    excerpt:
+      "Kiracı tahliyesi ne kadar sürer? Tahliye taahhüdü, iki haklı ihtar, temerrüt ve icra yollarının 2026 süreleri aşama aşama — Av. imzalı güncel rehber.",
+    category: "Hukuk",
+    readMinutes: 6,
+    publishedAt: "2026-10-03",
+    author: { name: "Av. Şafak Yılmaz", role: "Gaziantep Barosu" },
+    cover: { gradient: "from-rose-500 to-red-600", emoji: "⚖️" },
+    body: [
+      "**Kısa cevap:** Kiracı tahliyesi, izlediğiniz yola göre **3 ay ile 2 yıl arasında** değişir. Kiracı yazılı tahliye taahhüdü vermişse ve icra takibiyle ilerliyorsanız süreç birkaç ay içinde sonuçlanabilir. Buna karşılık dava açmanız gereken hallerde (ihtiyaç nedeniyle tahliye, iki haklı ihtar, yeni malikin ihtiyacı) süre mahkemenin iş yüküne bağlı olarak çoğunlukla 1 ila 2 yılı bulur.",
+      "Ev sahiplerinin bize en sık yönelttiği soru bu: “Kiracı çıkmıyor, ne kadar sürer?” Dürüst cevap, tek bir rakam olmadığı. Süreyi belirleyen şey, hangi hukuki sebebe dayandığınız ve elinizdeki belge. Aşağıda her yolun gerçekçi takvimini, dosyalarımıza ve uygulamaya dayanarak aşama aşama anlatıyorum.",
+      "## Süreyi belirleyen asıl şey: hangi tahliye yolu?",
+      "Türk Borçlar Kanunu, kiracının tahliyesi için sınırlı sayıda sebep tanır. Her birinin kendine özgü bir usulü ve süresi vardır. En hızlıdan en uzuna doğru bakalım.",
+      "### 1) Tahliye taahhüdüne dayalı icra (en hızlısı)",
+      "Kiracı, konuta girerken veya sonrasında serbest iradesiyle yazılı bir tahliye taahhüdü imzaladıysa, taahhüt edilen tarih geldiğinde elinizde en güçlü koz var demektir. Bu tarihten itibaren **1 ay içinde** icra dairesine başvurup tahliye takibi başlatabilir ya da dava açabilirsiniz. İtiraz edilmez veya itiraz hukuka uygun değilse, tahliye birkaç ay içinde — bazen 2–3 ayda — gerçekleşebilir. Uygulamada en kısa yol budur.",
+      "### 2) Kira ödememe (temerrüt) nedeniyle tahliye",
+      "Kiracı kirayı ödemiyorsa, önce noterden ihtarname çekip ödeme için süre (konutta 30 gün) tanırsınız. Bu süre sonunda ödeme yapılmazsa icra takibi veya tahliye davası yoluna gidersiniz. Noter ihtarnamesiyle düzgün yürütülen bir süreç davayı kısaltsa da, tümünün tamamlanması çoğunlukla **1 ila 2 yıl** arasında sürer. İhtar sürelerini ve tebligatı eksiksiz yürütmek, en çok zaman kazandıran noktadır.",
+      "### 3) İki haklı ihtar nedeniyle tahliye",
+      "Kiracı bir kira yılı içinde kirayı iki kez geç ödemiş ve her seferinde yazılı ihtar almışsa, kira yılının bitiminden itibaren **1 ay içinde** tahliye davası açabilirsiniz. Dava süreci yine mahkemenin yoğunluğuna bağlı olarak genelde bir yılı aşar.",
+      "### 4) İhtiyaç nedeniyle tahliye (“kendim oturacağım”)",
+      "Ev sahibinin kendisinin, eşinin, altsoy-üstsoyunun konut ihtiyacı için açılan davalarda süre tipik olarak **1 ila 1,5 yıl**dır. Burada mahkeme ihtiyacın “gerçek, samimi ve zorunlu” olup olmadığını araştırır; ispatı kolaylaştıkça süre kısalır.",
+      "### 5) Yeni malik (evi kiracılı satın alan) tarafından tahliye",
+      "Kiracılı bir konut satın aldıysanız, ihtiyacınız için kiracıyı çıkarmak isteyebilirsiniz. Edinme tarihinden itibaren 1 ay içinde durumu ihtarla bildirip, 6 ay sonunda dava açabilirsiniz. Toplam süreç genelde **1,5 ila 2 yıl**a yayılır.",
+      "## Dava bitti, karar çıktı — peki fiili tahliye ne kadar sürer?",
+      "Mahkeme tahliye kararı verdikten sonra iş bitmez. Karar kesinleştiğinde (veya icranın geri bırakılması istenmediğinde) icra dairesine başvurursunuz. İcra, kiracıya tahliye için genellikle süre verir; bu süre dolduğunda, gerekirse kolluk ve çilingir eşliğinde fiili tahliye yapılır. Bu son aşama genelde birkaç haftadan birkaç aya kadar değişir.",
+      "## Süreci neler uzatır, neler kısaltır?",
+      "Dosyalarımızda süreci uzatan en yaygın sebepler: eksik veya hatalı tebligat, ihtarnamede yanlış süre verilmesi, yanlış tahliye sebebine dayanmak ve mahkemenin iş yükü. Kısaltan sebepler ise net: serbest iradeyle alınmış geçerli bir tahliye taahhüdü, noter kanalıyla usulüne uygun ihtar ve belgelerin baştan eksiksiz hazırlanması. Kiracı evi gönüllü boşaltırsa, süreç 3 aya kadar inebilir.",
+      "## Tahliye riskini baştan ortadan kaldırmak mümkün",
+      "Gördüğünüz gibi, tahliye süreci en iyi ihtimalle birkaç ay, çoğu zaman bir-iki yıl sürüyor ve bu süre boyunca kira da çoğunlukla akmıyor. Kiram Güvende’nin yaklaşımı, bu riski en baştan sizden almak: kiracınız ödesin ya da ödemesin, kiranız her ayın 1’inde hesabınızda olur, olası tahliye ve hukuki süreçlerle muhatap olma yükünü biz üstleniriz. Siz yıllarca sürebilecek bir davayla değil, düzenli gelirinizle ilgilenirsiniz — hem de yalnızca %8 komisyonla.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+      "*Yazar: Av. Şafak Yılmaz — Gaziantep Barosu. Bu yazı genel bilgilendirme amaçlıdır; hukuki danışmanlık yerine geçmez. Somut durumunuz için bir avukata danışmanızı öneririz.*",
+    ],
+    faq: [
+      {
+        question: "Kiracıyı dava açmadan çıkarabilir miyim?",
+        answer:
+          "Evet, eğer elinizde geçerli bir yazılı tahliye taahhüdü varsa icra yoluyla dava açmadan ilerleyebilirsiniz. Taahhüt yoksa, kural olarak sınırlı sayıdaki yasal sebeplerden birine dayanıp yargı yoluna gitmeniz gerekir. Kiracıyı kendiniz zorla çıkarmak hukuka aykırıdır.",
+      },
+      {
+        question: "En hızlı tahliye yolu hangisi?",
+        answer:
+          "Uygulamada en hızlısı, geçerli bir tahliye taahhüdüne dayanan icra takibidir; itiraz olmazsa birkaç ayda sonuç alınabilir.",
+      },
+      {
+        question: "Tahliye davası açınca kiracı kirayı ödemezse ne olur?",
+        answer:
+          "Dava sürerken de kira borcu işlemeye devam eder; birikmiş kiralar için ayrıca icra takibi başlatabilirsiniz. Tahliye ve alacak takibi birlikte yürütülebilir.",
+      },
+    ],
+  },
+  {
+    slug: "kira-geliri-vergisi-2026",
+    title: "Kira Geliri Vergisi 2026: Ne Kadar Ödenir? (İstisna + Beyan)",
+    excerpt:
+      "2026 kira geliri vergisi ne kadar? 58.000 TL konut istisnası, beyan tarihi, götürü ve gerçek gider yöntemi tek rehberde — ev sahipleri için sade anlatım.",
+    category: "Rehber",
+    readMinutes: 7,
+    publishedAt: "2026-10-02",
+    author: { name: "Kiram Güvende İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-blue-500 to-cyan-600", emoji: "🧾" },
+    body: [
+      "**Kısa cevap:** 2026 yılında elde ettiğiniz konut kira geliriniz yıllık **58.000 TL’nin altındaysa** gelir vergisi beyannamesi vermeniz gerekmez. Bu tutarı aşarsanız, aşan kısmın tamamını değil, giderlerinizi düştükten sonra kalan matrahı artan oranlı gelir vergisi tarifesine göre beyan edersiniz. Beyan dönemi, geliri elde ettiğiniz yılı takip eden yılın Mart ayıdır; yani 2026 kira geliriniz için beyannameyi **1–31 Mart 2027** arasında verirsiniz.",
+      "Bu yazıda, ev sahiplerinin bize en sık sorduğu “Ben de vergi vermek zorunda mıyım, ne kadar ödeyeceğim?” sorusunu, gerçek hayattan rakamlarla ve sade bir dille anlatacağız. Hemen söyleyelim: çoğu ev sahibinin korktuğu kadar karmaşık bir konu değil, ama birkaç kritik noktayı atlamak insana sonradan ceza yazdırabiliyor.",
+      "## Kira geliri vergisi nedir, kimi ilgilendirir?",
+      "Konutunuzu kiraya verip kira aldığınızda elde ettiğiniz gelir, vergi dilinde “gayrimenkul sermaye iradı” (GMSİ) olarak geçer. Devlet, bu gelirin belirli bir kısmını vergiden muaf tutar; işte buna *istisna* diyoruz. 2026 yılı için konut kira gelirinde istisna tutarı 58.000 TL’dir.",
+      "Dosyalarımızda sık gördüğümüz bir yanlış anlama şu: “58.000 TL’yi geçtim, demek ki 58.000 TL’nin üstüne vergi vereceğim.” Doğrusu, istisnayı düştükten *sonra* kalan tutarı, ayrıca giderlerinizi de düşerek beyan etmeniz. Yani istisna bir eşik değil, matrahtan düşülen bir kalemdir.",
+      "## 2026 konut kira geliri istisnası: 58.000 TL",
+      "Diyelim ki aylık 10.000 TL’ye bir daireyi kiraya verdiniz. Yıllık geliriniz 120.000 TL oldu. İlk adımda bundan 58.000 TL istisnayı düşersiniz: 120.000 − 58.000 = 62.000 TL. Bundan sonra gider yöntemine göre bir indirim daha yapar, kalan tutar üzerinden vergiyi hesaplarsınız.",
+      "İstisnadan yararlanamayacağınız birkaç durum var ve bunları bilmek önemli:",
+      "- Kira gelirinizi hiç beyan etmez ya da eksik/geç beyan ederseniz istisna hakkınızı kaybedersiniz.\n- Ticari, zirai veya serbest meslek kazancı nedeniyle zaten yıllık beyanname veriyorsanız konut istisnasından yararlanamazsınız.\n- İstisna yalnızca **konut** kira gelirine uygulanır; iş yeri kirasında bu 58.000 TL’lik istisna yoktur.\n- Bir yılda beyanı gereken ücret, menkul/gayrimenkul sermaye iradı toplamı belirli bir üst sınırı aşan yüksek gelir gruplarında da istisna uygulanmaz.",
+      "## İki gider yöntemi: götürü mü, gerçek mi?",
+      "İstisnayı düştükten sonra, kalan gelirden masraflarınızı indirebilirsiniz. Burada iki yol var:",
+      "### Götürü gider yöntemi",
+      "Belge aramadan, kalan gelirin %15’ini otomatik gider olarak düşersiniz. Hiç fatura toplamak istemeyen, giderleri az olan ev sahipleri için pratiktir. Bir kez götürü yöntemi seçerseniz iki yıl boyunca gerçek gidere geçemezsiniz.",
+      "### Gerçek gider yöntemi",
+      "Kiraya verdiğiniz konutla ilgili gerçek harcamalarınızı (konuta ödediğiniz faizler, sigorta, bakım-onarım, emlak vergisi, amortisman vb.) belgelendirerek düşersiniz. Özellikle krediyle aldığınız ve yeni kiraya verdiğiniz bir konutta gerçek gider çoğu zaman daha avantajlıdır. Konutun iktisap bedelinin %5’i, ilk beş yıl için ayrıca gider yazılabilir.",
+      "## Peki ne kadar vergi çıkar?",
+      "İstisna ve giderler düşüldükten sonra kalan tutar “matrah”tır ve artan oranlı gelir vergisi tarifesine göre vergilendirilir. Tarifenin ilk dilimi %15’ten başlar, gelir arttıkça oran basamak basamak yükselir. Yani 62.000 TL’lik örneğimizde götürü gideri (%15 ≈ 9.300 TL) düşünce matrah yaklaşık 52.700 TL’ye iner ve bu tutar büyük ölçüde en alt dilimden vergilenir. Kesin rakam için güncel tarife üzerinden hesap yapmanızı ya da mali müşavirinize danışmanızı öneririz; dilimler her yıl yeniden değerlemeyle güncellenir.",
+      "## Beyannameyi nasıl ve ne zaman verirsiniz?",
+      "2026 yılı kira geliriniz için beyannameyi 2027 yılının Mart ayında vereceksiniz. En pratik yol, Gelir İdaresi’nin “Hazır Beyan Sistemi” üzerinden e-Devlet şifrenizle giriş yapmak. Sistem çoğu bilginizi önceden doldurur; siz sadece kontrol edip onaylarsınız. Çıkan vergiyi iki eşit taksitte (Mart ve Temmuz) ödeyebilirsiniz.",
+      "Bir hatırlatma: kira ödemelerinin banka veya PTT üzerinden yapılması, hem kiracı hem ev sahibi için fiilen zorunlu. Elden tahsil edilen kiralarda, gelirin kanıtlanması ve olası cezalar açısından ev sahibi dezavantajlı duruma düşebiliyor. Kiranın düzenli ve kayıtlı akması, hem vergi hem de olası bir uyuşmazlık için en büyük güvenceniz.",
+      "## Vergiyi dert etmeden, kiranız her ay hesabınızda",
+      "Verginin asıl zorlayıcı tarafı çoğu zaman hesap değil, gelirin düzensiz akması oluyor. Kiracı geç öder, bazı aylar hiç ödemez, siz hem gelirinizi hem beyanınızı takip etmeye çalışırsınız. Kiram Güvende tam burada devreye giriyor: kiracınız ödesin ödemesin, kiranız her ayın 1’inde banka hesabınızda oluyor. Böylece hem geliriniz kayıtlı ve düzenli akıyor, hem de beyan döneminde elinizde net bir tablo oluyor. Üstelik tüm bunlar yalnızca %8 komisyonla.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+      "*Not: Bu yazı genel bilgilendirme amaçlıdır ve mali/hukuki danışmanlık yerine geçmez. Kendi durumunuza özel kesin hesap için mali müşavirinize danışmanızı öneririz.*",
+    ],
+    faq: [
+      {
+        question: "Kira gelirim istisnanın altındaysa yine de beyan vermeli miyim?",
+        answer:
+          "Hayır. 2026’da konut kira geliriniz 58.000 TL’nin altındaysa ve başka bir beyan zorunluluğunuz yoksa beyanname vermezsiniz. Ancak ticari kazanç gibi nedenlerle zaten beyanname veriyorsanız durum değişir.",
+      },
+      {
+        question: "İki dairemi kiraya verdim, istisnayı iki kez mi kullanırım?",
+        answer:
+          "Hayır. İstisna kişi başına yılda bir kez uygulanır. Tüm konutlarınızdan elde ettiğiniz kira geliri toplanır, 58.000 TL istisna bu toplama bir defa düşülür.",
+      },
+      {
+        question: "Kirayı elden alıyorum, vergi dairesi nasıl öğrenecek?",
+        answer:
+          "Elden tahsilat hem kayıt dışılık cezası riski taşır hem de istisna hakkınızı tehlikeye atar. Banka üzerinden tahsilat bugün esas yöntemdir; düzenli banka hareketi, gelirinizin de giderinizin de en net kanıtıdır.",
+      },
+    ],
+  },
 ];
