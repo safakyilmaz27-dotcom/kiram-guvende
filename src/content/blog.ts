@@ -1161,4 +1161,247 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "avrupadaki-ev-sahipleri-icin-kira-garantisi-rehberi",
+    title: "Avrupa'daki Ev Sahipleri İçin Kira Garantisi Rehberi",
+    excerpt:
+      "Avrupa'da yaşayıp Türkiye'deki evini kiraya veren gurbetçiler için kira garantisi rehberi: uzaktan yönetim, vekalet, tahsilat ve güvence nasıl çalışır?",
+    category: "Gurbetçi",
+    readMinutes: 5,
+    publishedAt: "2026-11-18",
+    author: { name: "İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-sky-500 to-blue-700", emoji: "🌍" },
+    body: [
+      "**Kısa cevap:** Avrupa'da yaşayıp Türkiye'deki evini kiraya veren bir ev sahibi için kira garantisi, mesafenin yarattığı tüm belirsizlikleri ortadan kaldıran en pratik çözümdür. Kiracının kim olduğunu, kirayı ödeyip ödemediğini, bir sorun çıkarsa kimin takip edeceğini düşünmek zorunda kalmazsınız: **kiracı ödesin ödemesin kiranız her ayın 1'inde hesabınızda olur** ve tüm süreç yerinde yönetilir.",
+      "Almanya, Hollanda, Fransa, Belçika, Avusturya... Avrupa'nın dört bir yanında yaşayan gurbetçi ev sahiplerinden hep benzer dertleri duyuyoruz: \"Kirayı takip edemiyorum\", \"kiracı aylarca ödemedi, haberim bile olmadı\", \"bir sorun çıkınca her şey için Türkiye'ye uçmak zorunda kaldım\". Dosyalarımızda en sık gördüğümüz tablo bu. Bu rehber, tam da bu sorunları yaşayan Avrupa'daki ev sahipleri için.",
+      "## Uzaktaki Ev Sahibinin En Büyük Üç Sorunu",
+      "Avrupa'dan Türkiye'deki evi yönetmeye çalışan ev sahiplerinin yaşadığı zorluklar genelde üç başlıkta toplanıyor:",
+      "- **Tahsilat belirsizliği:** Kiranın yatıp yatmadığını takip etmek, geç kalan ödemeyi kovalamak binlerce kilometre öteden neredeyse imkânsız.\n- **Güven sorunu:** Kiracıyı tanımıyorsunuz, evin ne durumda olduğunu göremiyorsunuz. \"Acaba eve iyi bakılıyor mu\" endişesi hiç bitmiyor.\n- **Sorun çıktığında müdahale edememe:** Kiracı ödemezse ya da çıkmazsa, süreci yerinde yürütecek birine ihtiyaç var. Her defasında uçak bileti almak ne mümkün ne mantıklı.",
+      "## Kira Garantisi Bu Sorunları Nasıl Çözer?",
+      "Kira garantisi modeli, uzaktaki ev sahibinin denklemini tamamen tersine çevirir. Çünkü mesafe artık sizin değil, hizmeti verenin problemi olur:",
+      "- **Sabit, öngörülebilir gelir:** Kiracı geç öder, eksik öder ya da hiç ödemezse bile kiranız her ayın 1'inde, aynı tutarda hesabınıza geçer. Saat farkı, tatil, kiracı bahanesi — hiçbiri sizi ilgilendirmez.\n- **Kiracı seçimi ve yönetimi yerinde:** Kiracının araştırılması, seçilmesi ve sözleşme süreci Türkiye'de profesyonelce yürütülür.\n- **Hukuki süreçler sizin yerinize:** Kiracı çıkmazsa tahliye ve icra süreçleri takip edilir; sizin yurt dışından bu işlerle uğraşmanıza gerek kalmaz.\n- **Tek muhatap:** Her şey için tek bir noktayla iletişim kurarsınız; onlarca farklı kişiyle (emlakçı, avukat, kiracı) ayrı ayrı uğraşmazsınız.",
+      "## Vekaletname Gerekiyor mu?",
+      "Türkiye'ye gelmeden de süreci yürütebilmek için, çoğu durumda bir **vekaletname** işleri büyük ölçüde kolaylaştırır. Bulunduğunuz ülkedeki **Türk konsolosluğundan** düzenlenen vekaletname ile kira sözleşmesi, tahsilat takibi ve gerektiğinde hukuki süreçler sizin adınıza yürütülebilir. Böylece her imza için uçağa binmek zorunda kalmazsınız. Hangi yetkileri kapsayan bir vekalet gerektiği duruma göre değiştiğinden, bu konuyu baştan netleştirmek önemlidir.",
+      "## Kira Gelirinin Vergisi: Yurt Dışındayken de Sorumluluk Sürüyor",
+      "Avrupa'da yaşıyor olmanız, Türkiye'deki taşınmazınızdan elde ettiğiniz kira gelirinin Türkiye'deki beyan ve vergi sorumluluğunu ortadan kaldırmaz. Gurbetçi ev sahiplerinin en sık ihmal ettiği konu budur. Kira geliriniz düzenli ve kayıtlı biçimde yönetildiğinde, beyan süreçleri de çok daha sorunsuz ilerler. Vergisel yükümlülüklerin güncel durumu için mali müşavirinizle çalışmanız en doğrusudur.",
+      "## Mesafe Artık Sizin Yükünüz Olmasın",
+      "Avrupa'da bir hayat kurarken Türkiye'deki evinizin sürekli zihninizi meşgul etmesi gerekmiyor. Kiram Güvende ile kiracı ödesin ödemesin kiranız her ayın 1'inde hesabınızda olur; evinizle ilgili her süreç yerinde, profesyonelce takip edilir. Siz yalnızca gelirinizi alırsınız.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "Türkiye'ye hiç gelmeden evimi kira garantisiyle verebilir miyim?",
+        answer:
+          "Evet. Kiracı bulma, sözleşme, tahsilat ve gerektiğinde hukuki süreçler yerinde yürütüldüğü için sürecin tamamı uzaktan yönetilebilir. Vekaletname ile işlemler daha da kolaylaşır.",
+      },
+      {
+        question: "Kiracı kirayı ödemezse Avrupa'dan ne yapmam gerekir?",
+        answer:
+          "Kira garantisi modelinde hiçbir şey yapmanız gerekmez; kiranız garanti kapsamında her ayın 1'inde hesabınıza geçmeye devam eder. Kiracıyla ilgili takip ve yasal süreçler sizin yerinize yürütülür.",
+      },
+      {
+        question: "Almanya veya başka bir Avrupa ülkesinde yaşıyorum, fark eder mi?",
+        answer:
+          "Hizmet açısından yaşadığınız ülke fark etmez. İster Almanya, ister Hollanda, ister Fransa'da olun; önemli olan Türkiye'deki evinizin yerinde ve güvenle yönetilmesidir.",
+      },
+    ],
+  },
+  {
+    slug: "kahramanmaras-evini-kiraya-verenler-2026-rehberi",
+    title: "Kahramanmaraş'ta Evini Kiraya Verenler İçin 2026 Rehberi",
+    excerpt:
+      "Kahramanmaraş'ta 2026'da evini kiraya vermek: yeni konutlar, düşen kiralar, boş kalma riski ve ev sahibinin kirasını nasıl garanti altına alacağı.",
+    category: "Piyasa",
+    readMinutes: 5,
+    publishedAt: "2026-11-19",
+    author: { name: "İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-orange-500 to-amber-600", emoji: "🏗️" },
+    body: [
+      "**Kısa cevap:** Kahramanmaraş'ta 2026'da evini kiraya vermek, bir önceki yıllara göre tamamen farklı bir piyasa. Binlerce yeni konutun teslim edilmesiyle arz arttı, kiralar bazı bölgelerde ciddi biçimde geriledi ve ev sahibinin asıl riski artık \"yüksek kira\" değil, **dairenin boş kalması ve doğru kiracıyı bulamaması** oldu. Bu ortamda kirayı garanti altına almak, her zamankinden daha anlamlı.",
+      "Deprem sonrası Kahramanmaraş konut piyasası hızla değişti. Saha tarafından baktığımızda, ev sahiplerinin kafasındaki eski denklem artık geçerli değil. Bu rehberde 2026 koşullarında evini kiraya verecek Kahramanmaraşlı ev sahibi için gerçek tabloyu ve yapılması gerekenleri anlatıyoruz.",
+      "## 2026'da Kahramanmaraş Kira Piyasası: Arz Arttı, Kiralar Geriledi",
+      "Deprem sonrası devreye giren yeni konut projeleri ve toplu teslimler, kentte kiralık daire arzını belirgin biçimde yükseltti. Basına yansıyan tablo da bunu doğruluyor: bazı bölgelerde kira fiyatları yarı yarıya gerileyerek 10 bin TL seviyelerine kadar inen ilanlar görüldü. Yani kiracı için bollaşan, ev sahibi için ise rekabetin arttığı bir piyasadayız.",
+      "Bunun ev sahibine pratik anlamı şu: Artık \"kirayı koyarım, nasılsa tutar\" dönemi değil. Fiyatı piyasanın üstünde tutan daire hızla boş kalıyor; her boş ay doğrudan kayıp. Dolayısıyla 2026'da Kahramanmaraş'ta öncelik, kirayı en üst rakama çekmek değil, **daireyi kısa sürede ve güvenilir bir kiracıyla değerlendirmek**.",
+      "## Yeni Konut mu, Eski Yapı mı? Kiracı Tercihi Değişti",
+      "Yeni teslim edilen, depreme dayanıklı konutların devreye girmesiyle kiracıların tercihi de kaydı. Dayanıklılık, yeni bina, ısı yalıtımı gibi özellikler artık kiracının ilk baktığı kalemler. Eski yapıdaki bir daireyi kiraya verecekseniz, fiyatı bu gerçeğe göre konumlandırmak ve dairenin güçlü yönlerini (konum, merkeze yakınlık, ulaşım) öne çıkarmak gerekiyor.",
+      "## Ev Sahibinin 2026'daki Asıl Riski: Boş Kalma ve Tahsilat",
+      "Piyasa gevşerken ev sahibinin iki büyük riski öne çıkıyor:",
+      "- **Boş kalma riski:** Arz çok, talep seçici. Yanlış fiyatlanan daire aylarca boş kalabilir.\n- **Tahsilat riski:** Ekonomik koşulların zorladığı bir dönemde, kiracının kirayı aksatma ihtimali gözardı edilmemeli. Dosyalarımızda gördüğümüz kadarıyla gecikmeli ödemeler ev sahibini en çok yoran kalem.",
+      "Bu iki riski aynı anda yöneten en pratik yol, kira garantili bir yönetim modeli. Kiram Güvende'de kiracıyı biz araştırıp seçiyoruz, daireyi değerlendiriyoruz ve en önemlisi: kiracı ödesin ödemesin kiranız her ayın 1'inde hesabınızda oluyor.",
+      "## Kahramanmaraş'ta Evini Kiraya Vermeden Önce Yapılacaklar",
+      "- **Gerçekçi emsal araştırması:** Kendi mahallenizdeki güncel ilanlara bakın; eski rakamlara göre değil, bugünkü piyasaya göre fiyatlayın.\n- **Daireyi kiraya hazırlayın:** Küçük tamir ve temizlik, fotoğraf kalitesi doluluk süresini doğrudan kısaltır.\n- **Kiracı seçimini ciddiye alın:** Fiyat gevşerken \"ilk gelen\"e vermek yerine ödeme gücünü değerlendirin.\n- **Sözleşme ve tahsilatı sağlama alın:** Kirayı bankadan tahsil edin, tahliye taahhüdü ve güvence konularını baştan netleştirin.",
+      "## Değişen Piyasada Sabit Kalan Tek Şey: Garantili Kira",
+      "2026 Kahramanmaraş'ında ev sahibinin kafasındaki belirsizliği azaltmanın en net yolu, gelirini sabitlemek. Dairenizin güncel değerine uygun kirayı birlikte belirleyelim; sonrasında kiracı ödesin ödemesin kiranız her ayın 1'inde hesabınızda olsun.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "Kahramanmaraş'ta kiralar gerçekten düştü mü?",
+        answer:
+          "Yeni konutların devreye girmesiyle birçok bölgede kiralar geriledi; bazı ilanlarda yarı yarıya düşüşler ve 10 bin TL seviyelerine inen fiyatlar görüldü. Ancak durum mahalle ve bina niteliğine göre değişiyor; kendi bölgenizin güncel emsallerine bakmak şart.",
+      },
+      {
+        question: "Düşen piyasada evimi en iyi nasıl değerlendiririm?",
+        answer:
+          "Fiyatı piyasaya uygun koyup daireyi hızlı ve güvenilir biçimde kiraya vermek, kirayı yüksek tutup aylarca boş bırakmaktan çok daha kârlı. Boş kalan her ay, birkaç yıllık fiyat farkından daha fazlasını kaybettirir.",
+      },
+      {
+        question: "Kahramanmaraş'ta kira garantisi işime yarar mı?",
+        answer:
+          "Arzın bollaştığı, tahsilat riskinin arttığı bir piyasada kira garantisi tam da bu iki riski — boş kalma ve ödememe — ev sahibinin üzerinden alır. Kahramanmaraş gibi hızla değişen piyasalarda öngörülebilir gelir bu yüzden çok değerli.",
+      },
+    ],
+  },
+  {
+    slug: "kira-tespit-davasi-nedir-ne-zaman-acilir",
+    title: "Kira Tespit Davası Nedir, Ne Zaman Açılır?",
+    excerpt:
+      "Kira tespit davası nedir, ne zaman açılır? TBK 344-345, 5 yıl kuralı, ihtar şartı ve geriye etki. Avukat imzalı 2026 güncel ev sahibi rehberi.",
+    category: "Hukuk",
+    readMinutes: 7,
+    publishedAt: "2026-11-20",
+    author: { name: "Av. Şafak Yılmaz", role: "Gaziantep Barosu" },
+    cover: { gradient: "from-slate-600 to-gray-800", emoji: "🏛️" },
+    body: [
+      "**Kısa cevap:** Kira tespit davası, kira bedelinin mahkeme tarafından yeniden ve adil biçimde belirlenmesini sağlayan davadır. **Her zaman açılabilir**; ancak yeni belirlenen kiranın hangi dönemden itibaren geçerli olacağı, davanın **ne zaman açıldığına ve ihtar çekilip çekilmediğine** bağlıdır. Dava, taşınmazın bulunduğu yerdeki **Sulh Hukuk Mahkemesi**'nde görülür.",
+      "Gaziantep'te ve çevre illerde ev sahiplerinden en çok şu soruyu alıyorum: \"Kiram piyasanın çok altında kaldı, hukuken ne yapabilirim?\" Cevabın merkezinde kira tespit davası var. Ama bu dava, çoğu kişinin sandığının aksine, kirayı bir gecede piyasaya çekmenin kestirme yolu değil. Doğru zamanlama ve doğru hukuki zemin olmadan açıldığında yıllara yayılabiliyor. Adım adım bakalım.",
+      "## Kira Tespit Davası Nedir?",
+      "Kira tespit davası, Türk Borçlar Kanunu'nun 344 ve 345. maddelerine dayanan, kira bedelinin hakim eliyle belirlenmesini amaçlayan bir davadır. Taraflar kira artışında anlaşamadığında ya da mevcut kira güncel koşulların çok gerisinde kaldığında başvurulur. Davayı hem ev sahibi (kirayı yükseltmek için) hem de kiracı (kirayı düşürmek için) açabilir.",
+      "## TBK Madde 344: Artışın Sınırı",
+      "TBK 344, yenilenen kira dönemlerinde uygulanacak artışın çerçevesini çizer. Sözleşmede artış kaydı olsun olmasın, **ilk 5 yıl boyunca** kira artışı bir önceki kira yılının **TÜFE 12 aylık ortalamasını** aşamaz. Hakim de bu dönemde kira tespiti yaparken bu üst sınırla bağlıdır. Yani ilk 5 yıl içinde açılan kira tespit davasında, piyasa ne kadar açılmış olursa olsun, kira TÜFE tavanının üzerine çıkarılamaz.",
+      "## 5 Yıl Kuralı: Asıl Dönüm Noktası",
+      "Kira tespit davasının ev sahibi için gerçek gücü, **5 yıldan uzun süren kira ilişkilerinde** ortaya çıkar. Beş yıl dolduktan sonra yenilenen kira dönemlerinde hakim artık TÜFE tavanıyla bağlı değildir. Bu aşamada kira bedeli;",
+      "- bölgedeki **emsal kira bedelleri**,\n- taşınmazın durumu (yaş, konum, nitelik),\n- ve **hakkaniyet** ilkesi",
+      "birlikte değerlendirilerek belirlenir. Uygulamada mahkeme çoğunlukla bilirkişi incelemesiyle emsal araştırması yaptırır ve kirayı güncel piyasaya yaklaştırır. Dolayısıyla yıllardır düşük kalmış bir kirayı piyasa seviyesine getirmenin hukuken en sağlam yolu, 5 yıl sonrası açılan kira tespit davasıdır.",
+      "## TBK Madde 345: Dava Ne Zaman Açılır, Hangi Dönemden Geçerli Olur?",
+      "En çok hata yapılan nokta burasıdır. TBK 345'e göre kira tespit davası **her zaman açılabilir**. Ancak kararın hangi dönemden itibaren uygulanacağı zamanlamaya bağlıdır:",
+      "- **Yeni dönemin başından en az 30 gün önce dava açılırsa** ya da bu süre içinde kiracıya kira artışını bildiren **yazılı bir ihtar** gönderilip dava yeni dönem içinde açılırsa, mahkemenin belirlediği kira **yeni kira döneminin başından itibaren geçerli** olur (geriye etkili).\n- Bu süre ve ihtar şartı kaçırılırsa, tespit edilen kira ancak **bir sonraki kira döneminden** itibaren uygulanır.",
+      "Bu yüzden ev sahibine her zaman şunu söylüyorum: Kirayı güncellemek istiyorsanız, yeni dönem başlamadan önce ihtarı çekin ve süreyi kaçırmayın. Aksi halde bir yıl daha eski kiradan kaybedebilirsiniz.",
+      "## Görevli ve Yetkili Mahkeme",
+      "Kira tespit davalarında görevli mahkeme **Sulh Hukuk Mahkemesi**, yetkili mahkeme ise kural olarak **taşınmazın bulunduğu yer** mahkemesidir. Dava, karşı tarafa (ev sahibi açıyorsa kiracıya) yöneltilir. Bu davalarda ayrıca dava öncesi **arabuluculuk** şartının güncel durumuna dikkat edilmelidir; süreç başlamadan bu aşamanın tamamlanması gerekebilir.",
+      "## Dava Yorucu; Ama Önlemek Mümkün",
+      "Kira tespit davası, hakkını aramanın meşru ve etkili bir yolu. Fakat dürüst olmak gerekirse, hiçbir ev sahibi mahkeme koridorlarında yıl geçirmek istemez. Bu riskleri baştan ortadan kaldırmanın yolu, kiranın düzenli ve güvence altında tahsil edildiği bir modelle çalışmaktır. Kiram Güvende'de kiranız kiracı ödesin ödemesin her ayın 1'inde hesabınızda olur; hukuki süreçler de sizin yerinize takip edilir.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+      "---",
+      "**Yazar: Av. Şafak Yılmaz — Gaziantep Barosu**",
+      "*Bu yazı genel bilgilendirme amaçlıdır; hukuki danışmanlık yerine geçmez. Her somut olay kendi koşulları içinde değerlendirilmeli, dava öncesi mutlaka bir avukata danışılmalıdır.*",
+    ],
+    faq: [
+      {
+        question: "Kira tespit davasını kiracı da açabilir mi?",
+        answer:
+          "Evet. Kira piyasanın çok üzerinde kaldıysa kiracı da kiranın düşürülmesi için kira tespit davası açabilir. Dava tek taraflı bir ev sahibi hakkı değildir.",
+      },
+      {
+        question: "İlk 5 yıl içinde kirayı piyasaya çekebilir miyim?",
+        answer:
+          "Hayır. İlk 5 yıl boyunca kira artışı TÜFE 12 aylık ortalamasıyla sınırlıdır ve hakim de bu sınırla bağlıdır. Piyasa farkını yansıtmak ancak 5 yıl sonrası açılan davayla mümkündür.",
+      },
+      {
+        question: "Kira tespit davası ne kadar sürer?",
+        answer:
+          "Süre; dosyanın yoğunluğuna, bilirkişi ve emsal araştırmasına göre değişir. Bu nedenle davayı mümkünse yeni döneme girmeden, ihtar süresini kaçırmadan açmak hem zaman hem hak kaybını önler.",
+      },
+    ],
+  },
+  {
+    slug: "kira-bedeli-nasil-belirlenir",
+    title: "Kira Bedeli Nasıl Belirlenir? Piyasa Değeri ve Hukuki Sınırlar",
+    excerpt:
+      "Kira bedeli nasıl belirlenir? İlk kira serbest mi, yasal tavan var mı? 2026 piyasa değeri, emsal kira ve TÜFE sınırını ev sahipleri için anlattık.",
+    category: "Rehber",
+    readMinutes: 6,
+    publishedAt: "2026-11-21",
+    author: { name: "İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-emerald-500 to-green-600", emoji: "🏷️" },
+    body: [
+      "**Kısa cevap:** Yeni kiraya verilen bir dairede **ilk kira bedeli serbesttir**; ev sahibi ile kiracı piyasa koşullarında anlaşır. Yasal tavan yalnızca **mevcut bir kiracının yenilenen kirasında** devreye girer ve bu artış, bir önceki yılın **TÜFE 12 aylık ortalaması** ile sınırlıdır. Kasım 2026 için bu yasal tavan **%31,23**'tür.",
+      "Ev sahiplerinin en çok karıştırdığı konu tam olarak bu ayrımdır: \"İlk kirayı istediğim gibi koyabilir miyim, yoksa bir sınır mı var?\" İkisi birbirinden tamamen farklı iki durum. Dosyalarımızda en sık gördüğümüz hatalar da bu karışıklıktan doğuyor. Adım adım açalım.",
+      "## İlk Kira Bedeli: Serbest Ama Gerçekçi Olmalı",
+      "Boş bir daireyi ilk kez kiraya verirken ya da yeni bir kiracıyla sözleşme yaparken kira bedelini belirlemekte yasal bir üst sınır yoktur. Pazarlık ve piyasa belirler. Ama \"serbest\" olması, keyfî olabileceği anlamına gelmez. Fazla yüksek koyarsanız daire boş kalır; her boş ay doğrudan cebinizden çıkar. Fazla düşük koyarsanız, kiracı uzun yıllar oturur ve yasal tavan nedeniyle kirayı piyasaya çekmeniz yıllar alır.",
+      "İlk kirayı belirlerken bakılması gereken üç temel ölçüt var:",
+      "- **Emsal kira:** Aynı mahallede, benzer metrekare, yaş ve özellikteki dairelerin güncel kira ilanları. \"Aynı binada benzer daire ne kadara çıkmış\" en sağlam veridir.\n- **Dairenin durumu:** Yaş, kat, cephe, ısıtma tipi, otopark, asansör, eşyalı/eşyasız gibi farklar aynı mahallede bile kirayı ciddi değiştirir.\n- **Talep yoğunluğu:** Üniversiteye, hastaneye, sanayiye veya merkeze yakınlık talebi — dolayısıyla kirayı — yukarı çeker.",
+      "## Mevcut Kiracıda Yenileme: Yasal Tavan Devreye Girer",
+      "Daireniz zaten kiradaysa ve kira dönemi yenileniyorsa, artık tamamen farklı bir kuraldayız. Türk Borçlar Kanunu'na göre yenilenen kira dönemlerinde yapılacak zam, **bir önceki kira yılının TÜFE 12 aylık ortalamasını geçemez**. Bu, ev sahibinin \"piyasa çok arttı\" diyerek kiracının kirasını bir anda iki katına çıkarmasını engelleyen koruyucu bir sınırdır.",
+      "2026 yılı boyunca bu oran her ay güncellenmektedir. Örneğin Kasım 2026'da sözleşmesi yenilenen bir kiracı için uygulanabilecek yasal tavan %31,23'tür. Artış oranı, kiranın yenilendiği aya göre o ayın açıklanan TÜFE 12 aylık ortalamasıyla bulunur.",
+      "**Hesaplama örneği:** Mevcut kira 20.000 TL ve yenileme ayının tavanı %31,23 ise, uygulanabilecek en yüksek yeni kira: 20.000 × 1,3123 = **26.246 TL**.",
+      "## Piyasa Çok Açıldıysa: Kira Tespit Davası",
+      "Peki kira yıllardır düşük kaldıysa ve piyasa çok uzaklaştıysa ev sahibi ne yapar? Burada iki önemli yol vardır:",
+      "- **İlk 5 yıl içinde:** Artış, TÜFE tavanıyla sınırlıdır; bu sınırın üstüne çıkılamaz.\n- **5 yıldan sonra:** Ev sahibi **kira tespit davası** açarak, kiranın emsal kiralara ve hakkaniyete göre yeniden belirlenmesini isteyebilir. Bu aşamada artık TÜFE tavanı değil, dairenin gerçek piyasa değeri esas alınır.",
+      "Yani uzun vadede ilk kirayı doğru koymak, piyasa gerisinde kalmamak için en önemli karardır. Düşük başlayan kirayı sonradan yakalamak hem zaman hem dava masrafı demektir.",
+      "## Eşyalı ve Kısa Dönem Kiralamada Durum",
+      "Eşyalı kiralama, boş daireye göre genellikle daha yüksek kira getirir; çünkü kiracıya sağlanan ek değer vardır. Ancak eşya yıpranması ve değişim maliyeti de ev sahibine aittir. Günlük/kısa dönem kiralamada ise kira bedeli tamamen doluluk oranına bağlı dinamik bir yapıdadır ve farklı bir mevzuata tabidir.",
+      "## Doğru Kirayı Belirlemek Yalnız Başlangıç",
+      "Kira bedelini doğru koymak önemli; ama o kirayı her ay eksiksiz tahsil etmek asıl meseledir. Kiram Güvende'de dairenizin piyasa değerine uygun kirayı birlikte belirler, sonrasında kiracı ödesin ödemesin kiranızın her ayın 1'inde hesabınızda olmasını garanti ederiz.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "İlk kira bedelini istediğim gibi koyabilir miyim?",
+        answer:
+          "Evet, yeni bir kiracıyla yapılan ilk sözleşmede kira bedeli serbestçe belirlenir, yasal bir üst sınır yoktur. Ancak piyasanın çok üzerinde bir rakam dairenin boş kalmasına yol açar.",
+      },
+      {
+        question: "Her yıl kirayı ne kadar artırabilirim?",
+        answer:
+          "Mevcut kiracının yenilenen kirasında artış, bir önceki yılın TÜFE 12 aylık ortalamasını geçemez. Bu oran her ay güncellenir; sözleşmenin yenilendiği aya göre bakılır.",
+      },
+      {
+        question: "Kirayı piyasaya göre düşük tuttum, nasıl yükseltirim?",
+        answer:
+          "İlk 5 yıl boyunca yalnızca TÜFE tavanı kadar artırabilirsiniz. 5 yılın sonunda kira tespit davasıyla kiranın emsallere göre yeniden belirlenmesini isteyebilirsiniz.",
+      },
+    ],
+  },
+  {
+    slug: "kira-garantisi-komisyonu-ne-kadar",
+    title: "Kira Garantisi Komisyonu Ne Kadar? Ücret Nasıl Hesaplanır?",
+    excerpt:
+      "Kira garantisi komisyonu ne kadar, nasıl hesaplanır? %8 komisyon oranı, neyi kapsar, ev sahibine net getirisi ne olur? Örnek hesapla anlattık.",
+    category: "Finans",
+    readMinutes: 6,
+    publishedAt: "2026-11-22",
+    author: { name: "İçerik Ekibi", role: "Kiram Güvende" },
+    cover: { gradient: "from-green-500 to-emerald-600", emoji: "🧮" },
+    body: [
+      "**Kısa cevap:** Kira garantisi komisyonu, Kiram Güvende'de aylık kira bedelinin **%8'idir**. Yani 20.000 TL kirası olan bir daire için aylık komisyon 1.600 TL, ev sahibinin her ayın 1'inde hesabına geçen net tutar ise 18.400 TL olur. Kiracı ödemese bile bu tutar değişmez; garanti devreye girer ve kira yine yatar.",
+      "Ev sahiplerinin bize en sık sorduğu soru bu: \"Komisyon yüksek mi, bu paraya değer mi?\" Dosyalarımızda gördüğümüz kadarıyla sorunun gerçek cevabı rakamda değil, o rakamın karşılığında neyi ortadan kaldırdığında gizli. Bu yazıda komisyonu açık açık hesaplayalım.",
+      "## Kira Garantisi Komisyonu Nasıl Hesaplanır?",
+      "Hesaplama basittir ve tek değişkeni vardır: aylık kira bedeli. Komisyon oranı sabit %8 olduğundan formül şudur:",
+      "**Aylık komisyon = Aylık kira × 0,08**\n\n**Ev sahibine geçen net = Aylık kira − komisyon**",
+      "Birkaç farklı kira seviyesi için tabloya dökelim:",
+      "- **15.000 TL kira:** Komisyon 1.200 TL, net getiri 13.800 TL\n- **20.000 TL kira:** Komisyon 1.600 TL, net getiri 18.400 TL\n- **30.000 TL kira:** Komisyon 2.400 TL, net getiri 27.600 TL\n- **50.000 TL kira:** Komisyon 4.000 TL, net getiri 46.000 TL",
+      "Dikkat edilmesi gereken nokta: komisyon kira arttıkça oransal olarak aynı kalır. Her yıl kira yasal tavana göre güncellendiğinde komisyon da aynı oranda yukarı gider, ama net getirinizin kiraya oranı hep %92'de sabit durur.",
+      "## Kira Garantisi Komisyonu Neyi Kapsar?",
+      "Ev sahiplerinin çoğu komisyonu bir \"emlakçı bulma ücreti\" gibi düşünüyor; oysa iş oradan çok daha ileride. %8'lik komisyonun karşılığında şunlar var:",
+      "- **Garantili ödeme:** Kiracı geç öder, eksik öder ya da hiç ödemezse kira yine her ayın 1'inde hesabınızda olur. Takip, arama, \"bu ay da gecikti mi\" stresi bize geçer.\n- **Kiracı bulma ve seçme:** Boş daire için kiracı araştırması, ödeme gücü değerlendirmesi ve sözleşme süreci.\n- **Tahsilat ve takip:** Kira ödemelerinin düzenli izlenmesi, gecikme halinde yasal sürecin başlatılması.\n- **Hukuki süreç yönetimi:** Kiracı çıkmazsa tahliye ve icra süreçlerinin takibi, ev sahibini bu yükten kurtararak.",
+      "Yani %8, sadece \"para transferi\" için değil; kiralamanın tüm riskli kısımlarını devralmak için ödediğiniz ücret.",
+      "## Komisyon Gerçekten Pahalı mı? Gizli Maliyeti Hesaba Katın",
+      "Ev sahiplerinin gözden kaçırdığı en büyük kalem, komisyon değil; **boş kalan ay**. Bir daire tek ay boş kalsa, 20.000 TL kayıp demektir. Bu, aynı dairenin bir yıllık komisyonunun (1.600 × 12 = 19.200 TL) neredeyse tamamına denk gelir.",
+      "Buna bir de \"kirayı ödemeyen kiracı\" senaryosunu ekleyin. Dosyalarımızda sık karşılaştığımız tablo şu: kirayı 3-4 ay ödemeyen, çıkmamakta direnen bir kiracının ev sahibine maliyeti, avukat ve zaman kaybı dahil, çoğu zaman bir yıllık komisyonun kat kat üzerinde oluyor. Garanti modelinde bu risk tamamen ortadan kalkıyor — işte %8'in asıl değeri burada.",
+      "## Komisyon Kiradan mı Kesilir, Ayrıca mı Ödenir?",
+      "Kiram Güvende modelinde komisyon ayrıca cebinizden çıkmaz; kiradan düşülerek net tutar size ödenir. Yani siz hiçbir zaman \"komisyon faturası\" ödemezsiniz. Her ayın 1'inde hesabınıza geçen tutar zaten komisyon düşülmüş net rakamdır. Bu, ev sahibi için nakit akışını son derece öngörülebilir kılar: her ay, aynı tarihte, bildiğiniz tutar.",
+      "## Özetle: Komisyon Bir Gider Değil, Risk Sigortası",
+      "%8'lik komisyonu, kirayı zamanında alamama, kiracı tahliyesi, boş kalan ay ve hukuki süreç masraflarının tamamına karşı ödenen bir \"huzur primi\" olarak düşünmek en doğrusu. Ev sahibi için denklem basit: öngörülebilir, sabit, küçük bir oran karşılığında; büyük ve öngörülemeyen riskleri sıfırlamak.",
+      "Dairenizin kira bedeline göre net getirinizin tam olarak ne olacağını merak ediyorsanız, birkaç dakikada ücretsiz bir değerlendirme çıkaralım.",
+      "[Hemen ücretsiz değerlendirme alın →](/basvuru)",
+    ],
+    faq: [
+      {
+        question: "Kira garantisi komisyonu her ay mı alınır?",
+        answer:
+          "Evet, komisyon aylık kira üzerinden her ay hesaplanır ve kiradan düşülerek size net ödeme yapılır. Ekstra yıllık bir ücret ya da peşin bir giriş bedeli yoktur.",
+      },
+      {
+        question: "Kiracı kirayı ödemezse komisyon yine alınır mı?",
+        answer:
+          "Kiracı ödemese bile kira garanti kapsamında hesabınıza yatırıldığı için sistem işlemeye devam eder. Önemli olan sizin her ay net tutarınızı eksiksiz almanızdır; ödememe riski ev sahibinden alınıp Kiram Güvende tarafına geçer.",
+      },
+      {
+        question: "%8 komisyon dışında başka masraf çıkar mı?",
+        answer:
+          "Standart hizmette ev sahibinden gizli bir masraf çıkmaz. Kiraya ilişkin yasal takip ve tahsilat süreçleri hizmet kapsamındadır. Daireye özel ek hizmetler söz konusu olursa bunlar sözleşme aşamasında açıkça belirtilir.",
+      },
+    ],
+  },
 ];
